@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/",
+  base: "/docs/",
   title: "Research Hub",
   head: [
     [
@@ -8,10 +8,18 @@ module.exports = {
         rel: "icon",
         href: "/assets/img/icjia-default.jpg"
       }
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/icon?family=Material+Icons"
+      }
     ]
   ],
   themeConfig: {
-    logo: "/assets/img/icjia-default.jpg",
+    logo:
+      "https://raw.githubusercontent.com/ICJIA/icjia-public-website/master/_themes/icjia/img/logo-icjia-small-blue-3.png",
     nav: [
       { text: "User Guide", link: "/guide/" },
       { text: "Developer Guide", link: "/dev-guide/" },
@@ -23,7 +31,6 @@ module.exports = {
         "/guide/",
         {
           title: "Contents",
-          collapsable: false,
           children: ["/guide/apps", "/guide/articles", "/guide/datasets"]
         },
         "/guide/faq"
@@ -33,11 +40,10 @@ module.exports = {
         "/dev-guide/architecture",
         {
           title: "Contributing",
-          collapsable: false,
           children: [
-            "/dev-guide/contributing",
-            "/dev-guide/contributing-code",
-            "/dev-guide/contributing-content"
+            "/dev-guide/contributing/code_of_conduct",
+            "/dev-guide/contributing/codebase",
+            "/dev-guide/contributing/contents"
           ]
         },
         "/dev-guide/api",
@@ -46,7 +52,15 @@ module.exports = {
       "/auth-guide": [
         "/auth-guide/",
         "/auth-guide/workflow",
-        "/auth-guide/studio"
+        "/auth-guide/studio",
+        {
+          title: "Tutorials",
+          children: [
+            "/auth-guide/tutorials/create-article",
+            "/auth-guide/tutorials/update-article",
+            "/auth-guide/tutorials/manage-article"
+          ]
+        }
       ]
     },
     repo: "vuejs/vuepress",

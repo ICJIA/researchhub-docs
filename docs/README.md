@@ -1,3 +1,9 @@
+---
+meta:
+  - name: robots
+    content: noindex
+---
+
 # Documentation
 
 ::: warning FUNDING ACKNOWLEDGMENT
@@ -14,12 +20,12 @@ Here you will find a variety of contents prepared to help you to not only use an
 
 ### For Users
 
-If you are new to _ICJIA Research Hub_ and wants to know how to navigate _ICJIA Research Hub_ to find criminal justice data and research most relevant to your interests, please check out our [User Guide page](./guide/).
+If you are new to _ICJIA Research Hub_ and wants to know how to navigate _ICJIA Research Hub_ to find criminal justice data and research most relevant to your interests, please check out our [User Guide page](/guide/).
 
 ### For Developers
 
-If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please check out our [Developer Guide page](./dev-guide/).
+If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please check out our [Developer Guide page](/dev-guide/).
 
 ### For Authors (ICJIA staff)
 
-If you are an ICJIA staff member and want to learn how to manage research publications using _ICJIA Research Hub_ apps, please check out our [Author Guide page](./auth-guide/).
+If you are an ICJIA staff member and want to learn how to manage research publications using _ICJIA Research Hub_ apps, please check out our [Author Guide page](/auth-guide/).

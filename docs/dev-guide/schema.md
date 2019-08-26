@@ -6,11 +6,12 @@ meta:
 
 # Data Schema
 
+<InDevelop />
+
 _ICJIA Research Hub_ has the following four content types:
 
 - [Apps](#apps)
 - [Articles](#articles)
-- [Authors](#authors)
 - [Datasets](#datasets)
 
 Each of these content types have common fields as well as content-specific fields.
@@ -23,21 +24,23 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 ### Apps fields
 
-|    field     | strapi type | definition                         | values                                                                           |
-| :----------: | :---------: | ---------------------------------- | -------------------------------------------------------------------------------- |
-|    title     |   string    | Title of the item                  | e.g. "This is an app"                                                            |
-|    status    |   string    | Status in the publication process  | "created," "submitted," "published"                                              |
-|   external   |   boolean   | Is an external contribution?       | true or false                                                                    |
-|     slug     |   string    | Slug for the item URL              | e.g. "this-is-an-app"                                                            |
-|     date     |    date     | Date created or updated            | e.g. "2019-01-01"                                                                |
-| cateogories  |    json     | Relevant categories                | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
-|     tags     |    json     | Relevant tags                      | -                                                                                |
-|    image     |   string    | Image in Base64                    | -                                                                                |
-| contributors |    json     | Contributors' title and URL if any | -                                                                                |
-| description  |   string    | A short description of the item    | -                                                                                |
-|     url      |   string    | URL for the item                   | -                                                                                |
-|   articles   |  relations  | Related Article items if any       | -                                                                                |
-|   datasets   |  relations  | Related Dataset items if any       | -                                                                                |
+|    field     | strapi type | definition                        | values                                                                           |
+| :----------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
+|    title     |   string    | Title of the item                 | e.g. "This is an app"                                                            |
+|    status    |   string    | Status in the publication process | "created," "submitted," or "published"                                           |
+|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
+|     slug     |   string    | Slug for the item URL             | e.g. "this-is-an-app"                                                            |
+|     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
+| cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
+|     tags     |    json     | Relevant tags                     |                                                                                  |
+| contributors |    json     | Contributors' title and URL       | e.g. `[ { "title": "Jane Doe", "url": "https://janedoe.com" } ]`                 |
+|    image     |   string    | Image in Base64                   |                                                                                  |
+| description  |   string    | A short description of the item   |                                                                                  |
+|     url      |   string    | URL for the item                  |                                                                                  |
+|   citation   |   string    | Suggested citation                |                                                                                  |
+|   funding    |   string    | Funding acknowledgement           |                                                                                  |
+|   articles   |  relations  | Related Article items if any      |                                                                                  |
+|   datasets   |  relations  | Related Dataset items if any      |                                                                                  |
 
 ### Apps in JSON
 
@@ -59,6 +62,8 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   ],
   "description": "",
   "url": "",
+  "citation": "",
+  "funding": "",
   "articles": [
     {
       "...": "..."
@@ -76,24 +81,29 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 ### Articles fields
 
-|    field    | strapi type | definition                        | values                                                                           |
-| :---------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
-|    title    |   string    | Title of Article item             | e.g. "This is an article"                                                        |
-|   status    |   string    | Status in the publication process | "created," "submitted," "published"                                              |
-|  external   |   boolean   | Is an external contribution?      | true or false                                                                    |
-|    slug     |   string    | Slug for Article item URL         | e.g. "this-is-an-article"                                                        |
-|    date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
-| cateogories |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
-|    tags     |    json     | Relevant tags                     | -                                                                                |
-|   splash    |   string    | Splash image in Base64            | -                                                                                |
-|   images    |    json     | Article figures in Base64         | -                                                                                |
-|   summary   |   string    | Article abstract                  | -                                                                                |
-|  markdown   |    text     | Article body in markdown          | -                                                                                |
-|  reportpdf  |    files    | Article in PDF if any             | -                                                                                |
-|  slidespdf  |    files    | Article slides in PDF if any      | -                                                                                |
-|    apps     |  relations  | Related App items if any          | -                                                                                |
-|   authors   |  relations  | Related Author items              | -                                                                                |
-|  datasets   |  relations  | Related Dataset items if any      | -                                                                                |
+|    field     | strapi type | definition                        | values                                                                                       |
+| :----------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------------------- |
+|    title     |   string    | Title of Article item             | e.g. "This is an article"                                                                    |
+|    status    |   string    | Status in the publication process | "created," "submitted," or "published"                                                       |
+|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                            |
+|     slug     |   string    | Slug for Article item URL         | e.g. "this-is-an-article"                                                                    |
+|     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                            |
+| cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other"             |
+|     tags     |    json     | Relevant tags                     |                                                                                              |
+|   authors    |    json     | Authors' title and description    | e.g. `[ { "title": "Jane Doe", "description": "Jane Doe is a Research Analyst at ICJIA" } ]` |
+|    splash    |   string    | Splash image in Base64            |                                                                                              |
+|  thumbnail   |   string    | thumbnail image in Base64         |                                                                                              |
+|    images    |    json     | Article figures in Base64         |                                                                                              |
+|   abstract   |   string    | Article abstract                  |                                                                                              |
+|   markdown   |    text     | Article body in markdown          |                                                                                              |
+|   citation   |   string    | Suggested citation                |                                                                                              |
+|     doi      |   string    | Article digital object identifier |                                                                                              |
+|   funding    |   string    | Funding acknowledgement           |                                                                                              |
+| mainfiletype |   string    | Type of the main atttachment      | "full report", "pdf version"                                                                 |
+|   mainfile   |   uploads   | Main attachment file              | e.g. a PDF version of an article                                                             |
+|  extrafile   |   uploads   | Extra attachment files            | e.g. a zipfile of appendix materials                                                         |
+|     apps     |  relations  | Related App items if any          |                                                                                              |
+|   datasets   |  relations  | Related Dataset items if any      |                                                                                              |
 
 ### Articles in JSON
 
@@ -106,27 +116,33 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   "date": "",
   "categories": [""],
   "tags": [""],
+  "authors": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ],
   "splash": "",
+  "thumbnail": "",
   "images": [
     {
       "title": "",
       "src": ""
     }
   ],
-  "summary": "",
+  "abstract": "",
   "markdown": "",
-  "reportpdf": {
+  "citation": "",
+  "doi": "",
+  "funding": "",
+  "mainfiletype": "",
+  "mainfile": {
     "...": "..."
   },
-  "slidespdf": {
+  "extrafile": {
     "...": "..."
   },
   "apps": [
-    {
-      "...": "..."
-    }
-  ],
-  "authors": [
     {
       "...": "..."
     }
@@ -139,58 +155,31 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 }
 ```
 
-## Authors
-
-### Authors fields
-
-|    field    | strapi type | definition                                    |
-| :---------: | :---------: | --------------------------------------------- |
-|    title    |   string    | Title of Author item                          |
-|    slug     |   string    | Slug for Author item URL                      |
-|  external   |   boolean   | Is an external contributor (non-ICJIA staff)? |
-| description |   string    | Short description                             |
-|  articles   |  relations  | Related Article items                         |
-
-### Authors in JSON
-
-```json
-{
-  "title": "",
-  "slug": "",
-  "external": false,
-  "description": "",
-  "articles": [
-    {
-      "...": "..."
-    }
-  ]
-}
-```
-
 ## Datasets
 
 ### Datasets fields
 
-|    field     | strapi type | definition                        | values                                                                           |
-| :----------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
-|    title     |   string    | Title of Dataset item             | e.g. "This is a dataset"                                                         |
-|    status    |   string    | Status in the publication process | "created," "submitted" or "published"                                            |
-|   external   |   boolean   | Is an external contribution?      | true or false                                                                    |
-|     slug     |   string    | Slug for Dataset item URL         | e.g. "this-is-a-dataset"                                                         |
-|     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
-| cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
-|     tags     |    json     | Relevant tags                     | -                                                                                |
-|   sources    |    json     | Dataset sources                   | -                                                                                |
-|     unit     |   string    | Unit of observation               | "state," "county," "individual," or "other"                                      |
-|  timeperiod  |    json     | Time period                       | e.g. { "yeartype": "calendar", "yearmin": "2009", "yearmax": "2019" }            |
-| description  |   string    | Short description of Dataset item | -                                                                                |
-|    notes     |    json     | Caveats, warnings, etc.           | -                                                                                |
-|  variables   |    json     | Variables information             | -                                                                                |
-|   datacsv    |    json     | Data in CSV                       | -                                                                                |
-| datafilename |    json     | Filename when downloaded          | -                                                                                |
-|   datafile   |    file     | Data in non-CSV format if needed  | -                                                                                |
-|     apps     |  relations  | Related App items if any          | -                                                                                |
-|   authors    |  relations  | Related Dataset items if any      | -                                                                                |
+|    field    | strapi type | definition                        | values                                                                           |
+| :---------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
+|    title    |   string    | Title of Dataset item             | e.g. "This is a dataset"                                                         |
+|   status    |   string    | Status in the publication process | "created," "submitted" or "published"                                            |
+|  external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
+|    slug     |   string    | Slug for Dataset item URL         | e.g. "this-is-a-dataset"                                                         |
+|    date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
+| cateogories |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
+|    tags     |    json     | Relevant tags                     | -                                                                                |
+|   project   |   boolean   | Is project specific?              | `true` or `false`                                                                |
+|   sources   |    json     | Dataset sources' title and URL    | -                                                                                |
+|    unit     |   string    | Unit of observation               | "state," "county," "individual," or "other"                                      |
+| timeperiod  |    json     | Time period                       | e.g. `{ "yeartype": "calendar", "yearmin": "2009", "yearmax": "2019" }`          |
+| description |   string    | Short description of Dataset item | -                                                                                |
+|    notes    |    json     | Caveats, warnings, etc.           | -                                                                                |
+|  variables  |    json     | Variables information             | -                                                                                |
+|  citation   |   string    | Suggested citation                |                                                                                  |
+|   funding   |   string    | Funding acknowledgement           |                                                                                  |
+|  datafile   |   uploads   | Data file (zipped if needed)      | -                                                                                |
+|    apps     |  relations  | Related App items if any          | -                                                                                |
+|   authors   |  relations  | Related Dataset items if any      | -                                                                                |
 
 ### Datasets in JSON
 
@@ -203,6 +192,7 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   "date": "",
   "categories": [""],
   "tags": [""],
+  "project": false,
   "sources": [
     {
       "title": "",
@@ -225,13 +215,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
       "values": ""
     }
   ],
-  "datacsv": "",
-  "datafilename": "",
-  "datafile": [
-    {
-      "...": "..."
-    }
-  ],
+  "citation": "",
+  "funding": "",
+  "datafile": {
+    "...": "..."
+  },
   "apps": [
     {
       "...": "..."

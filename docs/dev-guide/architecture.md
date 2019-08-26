@@ -22,9 +22,9 @@ There are six main components of the _ICJIA Research Hub_ project:
 _Figure 1_ below provides a graphical summary of how these components relate to one another.
 
 <div style="text-align:center">
+<span class="fig-title">Figure 1. Main components</span>
 
-<span class="fig-title">Figure 1.</span>
-![architecture diagram](/assets/img/diagram-architecture.png)
+![architecture diagram](/docs/assets/img/diagram-architecture.png)
 
 </div>
 
@@ -83,11 +83,11 @@ _Research Hub_ ([GitHub](https://github.com/ICJIA/icjia-research)) serves as the
 
 Research Hub Preview ([GitHub](https://github.com/ICJIA/icjia-research-studio)) and Research Hub Studio ([GitHub](https://github.com/ICJIA/icjia-research-studio)) together model and streamline ICJIA's internal content publication process.
 
-## Organization of components
+## Deployment strategy
 
 <div style="text-align:center">
+<span class="fig-title">Figure 2. Deployment strategy</span>
 
-<span class="fig-title">Figure 2.</span>
-![organization diagram](/assets/img/diagram-organization.png)
+![organization diagram](/docs/assets/img/diagram-organization.png)
 
 </div>

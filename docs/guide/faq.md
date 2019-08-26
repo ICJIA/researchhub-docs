@@ -24,4 +24,4 @@ In short, a software product is open-source if its source code is released under
 
 It's wonderful that you are interested in getting involved in this project! Your contribution can range from reporting a bug to suggesting a new feature to submitting relevant contents to improving this documentation to contributing to the project's codebase.
 
-Please see [the Contributing Guidelines page](../dev-guide/contributing.md) for more information.
+Please start with [the Code of Conduct page](../dev-guide/contributing/code_of_conduct.md) to understand the basic expectations. See [this page](../dev-guide/contributing/codebase.md) if you'd like to contribute to our codebase. See [this page](../dev-guide/contributing/contents.md) if you'd like to contribute to our contents.

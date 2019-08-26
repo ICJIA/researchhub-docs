@@ -6,6 +6,8 @@ meta:
 
 # Contents
 
+<InDevelop />
+
 ::: warning NOTE
 **Currently, _ICJIA Research Hub_ only accepts content submissions from select contributors.** We are working on establishing an internal protocol to accept submissions from the general public.
 :::

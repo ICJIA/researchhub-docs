@@ -1,12 +1,13 @@
 module.exports = {
   base: "/docs/",
   title: "Research Hub",
+  description: "Documentation site for ICJIA Research Hub.",
   head: [
     [
       "link",
       {
         rel: "icon",
-        href: "/assets/img/icjia-default.jpg"
+        href: "/assets/icjia-default.jpg"
       }
     ],
     [
@@ -18,8 +19,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    logo:
-      "https://raw.githubusercontent.com/ICJIA/icjia-public-website/master/_themes/icjia/img/logo-icjia-small-blue-3.png",
+    logo: "/assets/icjia-logo.png",
     nav: [
       { text: "User Guide", link: "/guide/" },
       { text: "Developer Guide", link: "/dev-guide/" },
@@ -46,7 +46,6 @@ module.exports = {
             "/dev-guide/contributing/contents"
           ]
         },
-        "/dev-guide/api",
         "/dev-guide/schema"
       ],
       "/auth-guide": [
@@ -58,12 +57,13 @@ module.exports = {
           children: [
             "/auth-guide/tutorials/create-article",
             "/auth-guide/tutorials/update-article",
-            "/auth-guide/tutorials/manage-article"
+            "/auth-guide/tutorials/manage-article",
+            "/auth-guide/tutorials/markdown"
           ]
         }
       ]
     },
-    repo: "vuejs/vuepress",
+    repo: "icjia/icjia-research-docs",
     repoLabel: "GitHub"
   }
 };

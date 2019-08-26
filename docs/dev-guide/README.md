@@ -6,6 +6,8 @@ meta:
 
 # Overview
 
+<InDevelop />
+
 Welcome to _ICJIA Research Hub_ Developer Guide!
 
 This guide is meant for developers and other curious citizens who are interested in technical details of the _ICJIA Reseasrch Hub_ project and making contributions to it.
@@ -42,7 +44,7 @@ You can run its individual elements locally on your workstation. In order to rep
 The following example is for the _Research Hub_ main app. Change the repo name for _Research Hub Studio_ and _Research Hub Preview_ apps.
 
 ::: warning NOTE
-All three apps expects the API server to be running, from which they get and post content data.
+All three apps expects the API server to be running to access content data and user information.
 :::
 
 ```sh

@@ -37,11 +37,21 @@ Homepage is what you first see when you come to _Research Hub_. It shows a welco
 
 #### Search bar and search results page
 
-![search bar]()
+The search bar allows you to quickly find contents using search terms. In _Figure 1_, the search bar is marked by the red arrow. When you press enter, you will be taken to a "Search" page listing the search results of all content types. _Figure 2_ below shows an example search result page for a search keyword "drug."
 
-The search bar allows you to quickly find contents using search terms. When you press enter, you will be taken to a "Search" page listing the search results of all content types.
+<div style="text-align:center">
+<span class="fig-title">Figure 1. Search bar on homepage</span>
 
-![search page example]()
+![search bar](/docs/assets/img/search-bar.png)
+
+</div>
+
+<div style="text-align:center">
+<span class="fig-title">Figure 2. Search result page example</span>
+
+![search page example](/docs/assets/img/search-page.png)
+
+</div>
 
 ### About page
 

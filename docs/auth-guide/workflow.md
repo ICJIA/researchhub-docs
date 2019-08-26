@@ -6,9 +6,7 @@ meta:
 
 # Workflow
 
-::: warning NOTE
-This page of the documentation is intended for the internal ICJIA staff.
-:::
+<StaffOnly />
 
 _ICJIA Research Hub_ supports a particular workflow that is modeled after and seeks to improve the R&A Unit's real-world publication process. This workflow assumes that the content is ready to be published although this assumption is not necessarily required.
 
@@ -46,9 +44,9 @@ The workflow supported by _ICJIA Research Hub_ relies on changing status of a co
 _Figure 1_ below illustrates this workflow:
 
 <div style="text-align:center">
+<span class="fig-title">Figure 1. Publication workflow</span>
 
-<span class="fig-title">Figure 1.</span>
-![workflow diagram](/assets/img/diagram-workflow.png)
+![workflow diagram](/docs/assets/img/diagram-workflow.png)
 
 </div>
 
@@ -66,9 +64,13 @@ See [the Using Studio page](studio.md) for more on using _Research Hub Studio_ a
 
 "Created" content items are available only on _Research Hub Studio_. Author can create a new item on the Create page of _Resesarch Hub Studio_, which will then have the "created" status.
 
-Authors can make substantive changes to "created" contents only. "Created" items are available on the Update page of _Research Hub Studio_. "Created" items can also be deleted on the Manage page by clicking a red trash bin icon (<i class="material-icons" style="color:red;">delete_forever</i>) on the right side of the table for "created" items.
+"Created" items are available on the Update page of _Research Hub Studio_. "Created" items can also be deleted on the Manage page by clicking a red trash bin icon (<i class="material-icons" style="color:red;">delete_forever</i>) on the right side of the table for "created" items.
 
 Author can promote a "Created" content to be of the "Submitted" status. This can be done on the Manage page of _Research Hub Studio_ by clicking check mark icon (<i class="material-icons">check</i>) on the right side of the table for "Created" items.
+
+::: warning NOTE
+Authors can make substantive changes _only_ to "created" contents. If you need to make changes to a "submitted" or "published" item, be sure to first change its status to "created" on the Manage page.
+:::
 
 #### Submitted
 
@@ -98,4 +100,8 @@ Public URLs have the following format:
 https://research.icjia.cloud/<content-type>/<slug>
 ```
 
-Author may take down "published" items on the Manage page of _Research Hub Studio_ by clicking a cross mark icon (<i class="material-icons">close</i>) on the right side of the table for "published" items.
+In general, publication of any content is considered final and "published" items cannot be taken down by Author.
+
+::: warning NOTE
+For making changes to already "published" items, there exits a Manager account. Manager can only view the list of "published" items on the Manage page and take down items if needed.
+:::

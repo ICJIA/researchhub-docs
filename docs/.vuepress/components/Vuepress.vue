@@ -8,13 +8,9 @@
   </p>
 </template>
 
-<script>
-export default {}
-</script>
-
 <style scoped>
 .vuepress {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   background-color: #f3f6f8;
   padding: 0.6em 1.2em;
   border-radius: 8px;

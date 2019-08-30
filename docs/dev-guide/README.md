@@ -6,8 +6,6 @@ meta:
 
 # Overview
 
-<InDevelop />
-
 Welcome to _ICJIA Research Hub_ Developer Guide!
 
 This guide is meant for developers and other curious citizens who are interested in technical details of the _ICJIA Reseasrch Hub_ project and making contributions to it.
@@ -65,6 +63,10 @@ npm run build
 ```
 
 ### API server
+
+::: tip TIP
+Refer to [the Docker Compose documentation](https://docs.docker.com/compose/) for more options.
+:::
 
 ```sh
 # clone source repo

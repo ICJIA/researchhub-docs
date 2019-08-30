@@ -6,8 +6,6 @@ meta:
 
 # Data Schema
 
-<InDevelop />
-
 _ICJIA Research Hub_ has the following four content types:
 
 - [Apps](#apps)
@@ -26,19 +24,19 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 |    field     | strapi type | definition                        | values                                                                           |
 | :----------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
-|    title     |   string    | Title of the item                 | e.g. "This is an app"                                                            |
 |    status    |   string    | Status in the publication process | "created," "submitted," or "published"                                           |
-|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
+|    title     |   string    | Title of the item                 | e.g. "This is an app"                                                            |
 |     slug     |   string    | Slug for the item URL             | e.g. "this-is-an-app"                                                            |
 |     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
+|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
 | cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
 |     tags     |    json     | Relevant tags                     |                                                                                  |
 | contributors |    json     | Contributors' title and URL       | e.g. `[ { "title": "Jane Doe", "url": "https://janedoe.com" } ]`                 |
 |    image     |   string    | Image in Base64                   |                                                                                  |
 | description  |   string    | A short description of the item   |                                                                                  |
 |     url      |   string    | URL for the item                  |                                                                                  |
-|   citation   |   string    | Suggested citation                |                                                                                  |
 |   funding    |   string    | Funding acknowledgement           |                                                                                  |
+|   citation   |   string    | Suggested citation                |                                                                                  |
 |   articles   |  relations  | Related Article items if any      |                                                                                  |
 |   datasets   |  relations  | Related Dataset items if any      |                                                                                  |
 
@@ -46,11 +44,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 ```json
 {
-  "title": "",
   "status": "",
-  "external": false,
+  "title": "",
   "slug": "",
   "date": "",
+  "external": false,
   "categories": [""],
   "tags": [""],
   "image": "",
@@ -62,8 +60,8 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   ],
   "description": "",
   "url": "",
-  "citation": "",
   "funding": "",
+  "citation": "",
   "articles": [
     {
       "...": "..."
@@ -83,11 +81,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 |    field     | strapi type | definition                        | values                                                                                       |
 | :----------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------------------- |
-|    title     |   string    | Title of Article item             | e.g. "This is an article"                                                                    |
 |    status    |   string    | Status in the publication process | "created," "submitted," or "published"                                                       |
-|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                            |
+|    title     |   string    | Title of Article item             | e.g. "This is an article"                                                                    |
 |     slug     |   string    | Slug for Article item URL         | e.g. "this-is-an-article"                                                                    |
 |     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                            |
+|   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                            |
 | cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other"             |
 |     tags     |    json     | Relevant tags                     |                                                                                              |
 |   authors    |    json     | Authors' title and description    | e.g. `[ { "title": "Jane Doe", "description": "Jane Doe is a Research Analyst at ICJIA" } ]` |
@@ -96,9 +94,9 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 |    images    |    json     | Article figures in Base64         |                                                                                              |
 |   abstract   |   string    | Article abstract                  |                                                                                              |
 |   markdown   |    text     | Article body in markdown          |                                                                                              |
+|   funding    |   string    | Funding acknowledgement           |                                                                                              |
 |   citation   |   string    | Suggested citation                |                                                                                              |
 |     doi      |   string    | Article digital object identifier |                                                                                              |
-|   funding    |   string    | Funding acknowledgement           |                                                                                              |
 | mainfiletype |   string    | Type of the main atttachment      | "full report", "pdf version"                                                                 |
 |   mainfile   |   uploads   | Main attachment file              | e.g. a PDF version of an article                                                             |
 |  extrafile   |   uploads   | Extra attachment files            | e.g. a zipfile of appendix materials                                                         |
@@ -109,11 +107,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 ```json
 {
-  "title": "",
   "status": "",
-  "external": false,
+  "title": "",
   "slug": "",
   "date": "",
+  "external": false,
   "categories": [""],
   "tags": [""],
   "authors": [
@@ -132,9 +130,9 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   ],
   "abstract": "",
   "markdown": "",
+  "funding": "",
   "citation": "",
   "doi": "",
-  "funding": "",
   "mainfiletype": "",
   "mainfile": {
     "...": "..."
@@ -161,11 +159,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 |    field    | strapi type | definition                        | values                                                                           |
 | :---------: | :---------: | --------------------------------- | -------------------------------------------------------------------------------- |
-|    title    |   string    | Title of Dataset item             | e.g. "This is a dataset"                                                         |
 |   status    |   string    | Status in the publication process | "created," "submitted" or "published"                                            |
-|  external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
+|    title    |   string    | Title of Dataset item             | e.g. "This is a dataset"                                                         |
 |    slug     |   string    | Slug for Dataset item URL         | e.g. "this-is-a-dataset"                                                         |
 |    date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
+|  external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
 | cateogories |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
 |    tags     |    json     | Relevant tags                     | -                                                                                |
 |   project   |   boolean   | Is project specific?              | `true` or `false`                                                                |
@@ -175,8 +173,8 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 | description |   string    | Short description of Dataset item | -                                                                                |
 |    notes    |    json     | Caveats, warnings, etc.           | -                                                                                |
 |  variables  |    json     | Variables information             | -                                                                                |
-|  citation   |   string    | Suggested citation                |                                                                                  |
 |   funding   |   string    | Funding acknowledgement           |                                                                                  |
+|  citation   |   string    | Suggested citation                |                                                                                  |
 |  datafile   |   uploads   | Data file (zipped if needed)      | -                                                                                |
 |    apps     |  relations  | Related App items if any          | -                                                                                |
 |   authors   |  relations  | Related Dataset items if any      | -                                                                                |
@@ -185,11 +183,11 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 
 ```json
 {
-  "title": "",
   "status": "",
-  "external": false,
+  "title": "",
   "slug": "",
   "date": "",
+  "external": false,
   "categories": [""],
   "tags": [""],
   "project": false,
@@ -215,8 +213,8 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
       "values": ""
     }
   ],
-  "citation": "",
   "funding": "",
+  "citation": "",
   "datafile": {
     "...": "..."
   },

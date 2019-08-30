@@ -300,6 +300,10 @@ You can add suggested citation and funding acknowledgment to the current Article
 
 </div>
 
+::: tip TIP
+If you need to italicize the article title, use the `<em>` HTML tag as shown in _Figure 12_.
+:::
+
 ### Related items (optional)
 
 You can create links to published Apps or Datasets items that are related to the current Article. If created, they will appear at the bottom of the article body with proper styles.

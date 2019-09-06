@@ -27,7 +27,3 @@ If you are new to _ICJIA Research Hub_ and wants to know how to navigate _ICJIA 
 ### For Developers
 
 If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please check out our [Developer Guide page](/dev-guide/).
-
-### For Authors (ICJIA staff)
-
-If you are an ICJIA staff member and want to learn how to manage research publications using _ICJIA Research Hub_ apps, please check out our [Author Guide page](/auth-guide/).

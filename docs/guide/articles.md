@@ -16,6 +16,10 @@ An Article is a writing piece, typically a report on a research project conducte
 
 </div>
 
+::: warning NOTE
+_ICJIA Research Hub_ presents ICJIA R&A articles published in July 2015 and after only. You can search for older publications [here](http://icjia.state.il.us/research/publications). You can also find the link to those publications at the bottom of the Articles page.
+:::
+
 ## Searching Articles
 
 There are two ways to search through Articles to find what you're most interested in: search terms and category filter. You can also mix and match these two methods to refine your search.

@@ -23,6 +23,10 @@ When you log in, you will see three "task cards." Click on a card saying `UPDATE
 
 </div>
 
+::: tip TIP
+Click the `GO TO AUTHOR GUIDE` button below the task cards to open the Author Guide on a new browser tab. (See the orange arrow in _Figure 1_.)
+:::
+
 ## 2. Select the content type
 
 The Update page allows you to edit an item of one of the three available content types. Select "Articles" and click the <i class="material-icons">navigate_next</i> button to see the list of Articles items available for making edits.
@@ -33,6 +37,10 @@ The Update page allows you to edit an item of one of the three available content
 ![Select the content type](/docs/assets/img/tutorial-update2.png)
 
 </div>
+
+::: tip TIP
+Click the `GO TO TUTORIAL PAGE` button below the task cards to open this tutorial page on a new browser tab. (See the orange arrow in _Figure 2_.)
+:::
 
 ## 3. Select the item
 

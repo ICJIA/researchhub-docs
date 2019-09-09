@@ -23,6 +23,10 @@ When you log in, you will see three "task cards." Click on a card saying `MANAGE
 
 </div>
 
+::: tip TIP
+Click the `GO TO AUTHOR GUIDE` button below the task cards to open the Author Guide on a new browser tab. (See the orange arrow in _Figure 1_.)
+:::
+
 ## 2. Select the content type
 
 The Manage page allows you to manage items of one of the three available content types. Select "Articles" and click the <i class="material-icons">navigate_next</i> button to see the list of Articles items of any status.
@@ -33,6 +37,10 @@ The Manage page allows you to manage items of one of the three available content
 ![Select the content type](/docs/assets/img/tutorial-manage2.png)
 
 </div>
+
+::: tip TIP
+Click the `GO TO TUTORIAL PAGE` button below the task cards to open this tutorial page on a new browser tab. (See the orange arrow in _Figure 2_.)
+:::
 
 ## 3. Select the status "Created"
 

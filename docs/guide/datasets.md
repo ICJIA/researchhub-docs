@@ -18,12 +18,15 @@ A Dataset is a data file in a machine-friendly format (e.g. comma seperated valu
 
 ## Searching Datasets
 
-You can use any of the following information on Dataset, and any combination thereof, for a search term:
+There are two ways to search through Datasets to find what you're most interested in: search terms and category filter. You can also mix and match these two methods to refine your search.
+
+### Search terms
+
+Simply type words into the search bar on the top and you will get the filtered list of Datasets. You can use any of the following information on Dataset, and any combination thereof, for a search term:
 
 - Title
 - Date (Updated)
 - Sources
-- Categories
 - Tags
 
 <div style="text-align:center">
@@ -31,6 +34,34 @@ You can use any of the following information on Dataset, and any combination the
 <span class="fig-title">Figure 2. Example Datasets search result</span>
 
 ![Example Dataset search](/docs/assets/img/dataset-search.png)
+
+</div>
+
+### Category filter
+
+Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Datasets (_Figure 3b_). Select any to see the filtered list of Datasets of the select cateroy (_Figure 3c_).
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3a. Datasets category filter</span>
+
+![Datasets category filter](/docs/assets/img/dataset-filter-1.png)
+
+</div>
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3b. Using Datasets category filter</span>
+
+![Using Datasets category filter](/docs/assets/img/dataset-filter-2.png)
+
+</div>
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3c. Example Datasets category filter result ("corrections")</span>
+
+![Example Datasets category filter result](/docs/assets/img/dataset-filter-3.png)
 
 </div>
 
@@ -45,7 +76,7 @@ The card view for an Dataset item has the following information:
 
 <div style="text-align:center">
 
-<span class="fig-title">Figure 3. Example Dataset card</span>
+<span class="fig-title">Figure 4. Example Dataset card</span>
 
 ![Example Dataset card](/docs/assets/img/dataset-card.png)
 
@@ -69,7 +100,7 @@ The full view for an Dataset item has the following information:
 
 <div style="text-align:center">
 
-<span class="fig-title">Figure 4. Example Dataset view</span>
+<span class="fig-title">Figure 5. Example Dataset view</span>
 
 ![Example Dataset view](/docs/assets/img/dataset-view.png)
 

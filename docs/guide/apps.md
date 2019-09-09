@@ -18,11 +18,14 @@ An App is a web application, typically one that allows users to explore some dat
 
 ## Searching Apps
 
-You can use any of the following information on App, and any combination thereof, for a search term:
+There are two ways to search through Apps to find what you're most interested in: search terms and category filter. You can also mix and match these two methods to refine your search.
+
+### Search terms
+
+Simply type words into the search bar on the top and you will get the filtered list of Apps. You can use any of the following information on App, and any combination thereof, for a search term:
 
 - Title
 - Contributors
-- Categories
 - Tags
 
 <div style="text-align:center">
@@ -30,6 +33,34 @@ You can use any of the following information on App, and any combination thereof
 <span class="fig-title">Figure 2. Example Apps search result</span>
 
 ![Example Apps search](/docs/assets/img/app-search.png)
+
+</div>
+
+### Category filter
+
+Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Apps (_Figure 3b_). Select any to see the filtered list of Apps of the select cateroy (_Figure 3c_).
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3a. Apps category filter</span>
+
+![Apps category filter](/docs/assets/img/app-filter-1.png)
+
+</div>
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3b. Using Apps category filter</span>
+
+![Apps category filter](/docs/assets/img/app-filter-2.png)
+
+</div>
+
+<div style="text-align:center">
+
+<span class="fig-title">Figure 3c. Example Apps category filter result ("corrections")</span>
+
+![Example Apps category filter result](/docs/assets/img/app-filter-3.png)
 
 </div>
 
@@ -44,7 +75,7 @@ The card view for an App item has the following information:
 
 <div style="text-align:center">
 
-<span class="fig-title">Figure 3. Example App card</span>
+<span class="fig-title">Figure 4. Example App card</span>
 
 ![Example App card](/docs/assets/img/app-card.png)
 
@@ -67,7 +98,7 @@ The full view for an App item has the following information:
 
 <div style="text-align:center">
 
-<span class="fig-title">Figure 4. Example App view</span>
+<span class="fig-title">Figure 5. Example App view</span>
 
 ![Example App view](/docs/assets/img/app-view.png)
 

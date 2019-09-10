@@ -9,7 +9,7 @@ meta:
 <StaffOnly />
 
 ::: tip TIP
-Read [the "Update page" section on the Using Studio page](../studio.md#update-page) to learn what the Update page is about.
+Read [the "Update page" section on the Using Studio page](/auth-guide/studio.md#update-page) to learn what the Update page is about.
 :::
 
 ## 1. Go to the Update page

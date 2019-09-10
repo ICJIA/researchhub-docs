@@ -9,7 +9,7 @@ meta:
 <StaffOnly />
 
 ::: tip TIP
-Read [the "Create page" section on the Using Studio page](../studio.md#create-page) to learn what the Create page is about.
+Read [the "Create page" section on the Using Studio page](/auth-guide/studio.md#create-page) to learn what the Create page is about.
 :::
 
 ## 1. Go to Create page

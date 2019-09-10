@@ -22,5 +22,5 @@ Each GitHub repository for an individual component of the _ICJIA Research Hub_ p
 - [Research Hub Studio](https://github.com/ICJIA/icjia-research-studio)
 
 ::: tip TIP
-See [the Project Architecture page](../architecture.md) of this document for more on each components.
+See [the Project Architecture page](/dev-guide/architecture.md) of this document for more on each components.
 :::

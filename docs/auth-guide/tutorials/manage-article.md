@@ -9,7 +9,7 @@ meta:
 <StaffOnly />
 
 ::: tip TIP
-Read [the "Manage page" section on the Using Studio page](../studio.md#manage-page) to learn what the Manage page is about.
+Read [the "Manage page" section on the Using Studio page](/auth-guide/studio.md#manage-page) to learn what the Manage page is about.
 :::
 
 ## 1. Go to the Manage page
@@ -54,7 +54,7 @@ As the default, the list shows items of the "Submitted" status.
 </div>
 
 ::: tip TIP
-Go to [the "Manage page" section in the Using Studio page](../studio.md#manage-page) to learn more about different "action" buttons available for each status.
+Go to [the "Manage page" section in the Using Studio page](/auth-guide/studio.md#manage-page) to learn more about different "action" buttons available for each status.
 :::
 
 Click "Created" to change the status.

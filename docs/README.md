@@ -8,7 +8,7 @@ meta:
 
 # ICJIA Research Hub
 
-::: warning FUNDING ACKNOWLEDGMENT
+::: warning FUNDING ACKNOWLEDGEMENT
 This product was supported by State Justice Statistics (SJS) Program Grant #2018-86-CX-K006, awarded to the Illinois Criminal Justice Information Authority by the U.S. Department of Justice Office of Justice Programs' Bureau of Justice Statistics. Points of view in this product do not necessarily represent the official position or policies of the U.S. Department of Justice.
 :::
 
@@ -16,14 +16,14 @@ This product was supported by State Justice Statistics (SJS) Program Grant #2018
 
 ## Welcome :tada:
 
-Welcome to the documentation page of _ICJIA Research Hub_!
+Welcome to _ICJIA Research Hub_ Documentation site.
 
-Here you will find a variety of contents prepared to help you to not only use and understand _ICJIA Research Hub_ but also get involved with and make contributions to the project.
+Here you will find resources prepared to help you to not only use and understand _ICJIA Research Hub_ but also get involved with and make contributions to the project.
 
 ### For Users
 
-If you are new to _ICJIA Research Hub_ and wants to know how to navigate _ICJIA Research Hub_ to find criminal justice data and research most relevant to your interests, please check out our [User Guide page](/guide/).
+View the [User Guide](/guide/) for tips on how to navigate _ICJIA Research Hub_ to find criminal justice data and research most relevant to your interests.
 
 ### For Developers
 
-If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please check out our [Developer Guide page](/dev-guide/).
+If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please visit the [Developer Guide](/dev-guide/).

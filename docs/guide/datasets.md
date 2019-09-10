@@ -6,7 +6,7 @@ meta:
 
 # Datasets
 
-A Dataset is a data file in a machine-friendly format (e.g. comma seperated value, or CSV). A Dataset item is typically prepared by the ICJIA R&A staff to provide key criminal justice statistics in a convenient format.
+A Dataset is a data file in a machine-friendly format (e.g. comma separated value, or CSV). A Dataset item is typically prepared by the ICJIA R&A staff to provide key criminal justice statistics in a convenient format.
 
 <div style="text-align:center">
 
@@ -39,7 +39,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 ### Category filter
 
-Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Datasets (_Figure 3b_). Select any to see the filtered list of Datasets of the select cateroy (_Figure 3c_).
+Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Datasets (_Figure 3b_). Select any to see the filtered list of Datasets of the select category (_Figure 3c_).
 
 <div style="text-align:center">
 

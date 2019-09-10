@@ -8,7 +8,7 @@ meta:
 
 Welcome to _ICJIA Research Hub_ Developer Guide!
 
-This guide is meant for developers and other curious citizens who are interested in technical details of the _ICJIA Reseasrch Hub_ project and making contributions to it.
+This guide is meant for developers and other curious citizens who are interested in technical details of the _ICJIA Research Hub_ project and making contributions to it.
 
 ## Contents
 
@@ -55,7 +55,7 @@ cd icjia-research
 # install node modules
 npm install
 
-# serve for developement
+# serve for development
 npm run serve
 
 # Build for production.

@@ -182,7 +182,7 @@ As before, you can see the preview by clicking the <i class="material-icons">vis
 </div>
 
 <div style="text-align:center">
-<span class="fig-title">Figure 10b. See the item in <em>Reseasrch Hub</em></span>
+<span class="fig-title">Figure 10b. See the item in <em>Research Hub</em></span>
 
 ![See published in Research Hub](/docs/assets/img/tutorial-manage10b.png)
 

@@ -27,7 +27,7 @@ To that end, the _ICJIA Research Hub_ project provides an architecture that seam
 With _ICJIA Research Hub_, the R&A authors can be in charge of their own contents and work independently of the IT team throughout the process. The _Studio_ and _Preview_ apps provide authors with instant feedbacks on their contents and empower them to make updates without any unnecesary delay.
 
 ::: tip TIP
-See [the Project Architecture page](../dev-guide/architecture.md) of the Developer Guide for more on different components of _ICJIA Research Hub_ and how they relate to one another.
+See [the Project Architecture page](/dev-guide/architecture.md) of the Developer Guide for more on different components of _ICJIA Research Hub_ and how they relate to one another.
 :::
 
 ## Improved content type system
@@ -55,5 +55,5 @@ There are three main implications:
 3. Relations across content types can be explicitly specified. This can support a more comprehensive publication package without jamming everything into a single entry. (For example, a research report (Articles type) accompanied with a dataset used in analysis (Datasets type) and a dashboard for exploring the dataset interactively (Apps type).)
 
 ::: tip TIP
-See [the Data Schema page](../dev-guide/schema.md) in Developer Guide for more on the content type specification.
+See [the Data Schema page](/dev-guide/schema.md) in Developer Guide for more on the content type specification.
 :::

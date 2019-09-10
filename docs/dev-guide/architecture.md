@@ -38,7 +38,7 @@ In _Figure 1_ above, as well as in _Figure 2_ below,
 :::
 
 ::: tip TIP
-In _Figure 1_, "published" and "submitted" are possible values for the content status. See [the Content status section in the Worflow page](../auth-guide/workflow.md#contant-status.md) for more on what these status values are about.
+In _Figure 1_, "published" and "submitted" are possible values for the content status.
 :::
 
 ### API server
@@ -53,7 +53,7 @@ The API server is powered by:
 
 ### Component library
 
-The main purpose of the custom component library ([GitHub](https://github.com/ICJIA/icjia-research-lib)) is to improve the maintainabiltiy of Vue components and a CSS stylesheet shared by three frontend apps. The shared Vue components currently include the menu toolbar, footer and content-specific components (i.e. "cards" and "views" for Apps, Articles and Datasets).
+The main purpose of the custom component library ([GitHub](https://github.com/ICJIA/icjia-research-lib)) is to improve the maintainability of Vue components and a CSS stylesheet shared by three frontend apps. The shared Vue components currently include the menu toolbar, footer and content-specific components (i.e. "cards" and "views" for Apps, Articles and Datasets).
 
 The component library is powered by the following key technologies:
 

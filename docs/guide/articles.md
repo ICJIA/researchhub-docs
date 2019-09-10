@@ -43,7 +43,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 ### Category filter
 
-Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Articles (_Figure 3b_). Select any to see the filtered list of Articles of the select cateroy (_Figure 3c_).
+Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Articles (_Figure 3b_). Select any to see the filtered list of Articles of the select category (_Figure 3c_).
 
 <div style="text-align:center">
 
@@ -76,7 +76,7 @@ The card view for an Article item has the following information:
 - Title of the current Article item
 - Tags for the current Article item
 - Date, authors, and categories of the current Article item
-- `ABSTRCT` button to toggle the abstrct for the current Article item
+- `ABSTRCT` button to toggle the abstract for the current Article item
 - `MORE` button to see the full view
 
 <div style="text-align:center">
@@ -108,7 +108,7 @@ The full view for an Article item has the following information:
 - Categories and tags for the current Article item
 - `BACK` button to return to the Articles page
 - Table of contents
-- Buttons to download the Article's attachements if any
+- Buttons to download the Article's attachments if any
 - Title of the current Article item
 - Article abstract
 - Authors, date, and print button

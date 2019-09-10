@@ -87,7 +87,7 @@ When you are filling out the `Tags` field, consider choosing from the existing t
 
 </div>
 
-If the existing tags are not sufficient, simply type in more tags to use. Tags must be seperated by a comma.
+If the existing tags are not sufficient, simply type in more tags to use. Tags must be separated by a comma.
 
 <div style="text-align:center">
 <span class="fig-title">Figure 6. Type in a new tag</span>
@@ -193,12 +193,12 @@ While image file name is irrelevant for `Splash`, file names for `Figures` input
 Recommended for `Splash` is:
 
 - 150 KB or less in file size (max allowed is 500 KB)
-- 1260 pixels or less in the horizontal demension
+- 1260 pixels or less in the horizontal dimension
 
 Recommended for _each_ `Figure` is:
 
 - 25 KB or less in file size (max allowed is 100 KB)
-- 900 pixels or less in the horizontal demension
+- 900 pixels or less in the horizontal dimension
 
 :::
 
@@ -302,7 +302,7 @@ Read [the Write with Markdown page](markdown.md) to learn more about Markdown an
 You can add suggested citation and funding acknowledgment to the current Article item. If specified, they will appear at the bottom of the article body with proper styles.
 
 <div style="text-align:center">
-<span class="fig-title">Figure 12. Fill out suggested ciation and funding acknowledgement</span>
+<span class="fig-title">Figure 12. Fill out suggested citation and funding acknowledgement</span>
 
 ![Fill out the form, suggested citation and funding acknowledgement](/docs/assets/img/tutorial-create3-citation-funding.png)
 
@@ -378,7 +378,7 @@ To properly close the preview and return to the form, click the <i class="materi
 
 ## 5. Reset
 
-If for whatever reason you need to start from the clean slate, you can reset the form at any point. Click `RESET` button on the top right of the form and you will see the dialog box asking for confirmation. Click `RESET` againto proceed. You may click `BACK` to go back to the form and make futher changes if needed.
+If for whatever reason you need to start from the clean slate, you can reset the form at any point. Click `RESET` button on the top right of the form and you will see the dialog box asking for confirmation. Click `RESET` again to proceed. You may click `BACK` to go back to the form and make further changes if needed.
 
 <div style="text-align:center">
 <span class="fig-title">Figure 16a. Click RESET</span>
@@ -396,7 +396,7 @@ If for whatever reason you need to start from the clean slate, you can reset the
 
 ## 6. Submit
 
-Once you are ready, click the blue `CREATE` button on the top right of the form. You will see the dialog box asking for confirmation. Click the `CREATE` button again to proceeed. You may click `BACK` to go back to the form and make futher changes if needed.
+Once you are ready, click the blue `CREATE` button on the top right of the form. You will see the dialog box asking for confirmation. Click the `CREATE` button again to proceed. You may click `BACK` to go back to the form and make further changes if needed.
 
 If you proceed and `CREATE`, you will get a notice from your browser that the new item is created. Click `OK` to close the notice. You will be taken back to the home page.
 

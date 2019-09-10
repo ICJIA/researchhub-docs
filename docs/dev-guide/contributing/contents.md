@@ -14,9 +14,9 @@ meta:
 
 To serve as a "Hub" for research on criminal justice in Illinois, _ICJIA Research Hub_ accepts external contributions for Apps, Articles and Datasets.
 
-By contributing your work to _ICJIA Research Hub_, you not only help _ICJIA Research Hub_ to become a truly comprehensive library of criminal justice resesarch in Illinois but also find a broader audience for your own work.
+By contributing your work to _ICJIA Research Hub_, you not only help _ICJIA Research Hub_ to become a truly comprehensive library of criminal justice research in Illinois but also find a broader audience for your own work.
 
-For any content submission to be considered for publication, it must be about criminal justice in Illinois and related subjects. Also, it must include information on a set of required and optional fields to be considered. Please read below for what the relevent fields are for each content type.
+For any content submission to be considered for publication, it must be about criminal justice in Illinois and related subjects. Also, it must include information on a set of required and optional fields to be considered. Please read below for what the relevant fields are for each content type.
 
 Once you have your materials ready, please submit it to [research@icjia.cloud](mailto:research@icjia.cloud) with the subject line "CONTRIBUTION: `<content-type>`" where `<content-type>` is either Apps, Articles or Datasets.
 
@@ -26,7 +26,7 @@ You can submit web applications that explores and analyzes criminal justice data
 
 ### Apps fields
 
-The required fields for an Apps submission are as follows (those prefiex by "?" are optional):
+The required fields for an Apps submission are as follows (those prefixed by "?" are optional):
 
 - Title
 - URL for the Apps submission
@@ -52,7 +52,7 @@ If you are making an Articles submission, you are highly encouraged to also make
 
 ### Articles fields
 
-The required fields for an Articles submission are as follows (those prefiex by "?" are optional):
+The required fields for an Articles submission are as follows (those prefixed by "?" are optional):
 
 - Title
 - URL for the Articles submission
@@ -78,7 +78,7 @@ Section titles use level-2 heading (`##`) and subsection titles use level-3 head
 ```md
 ## This is a section title
 
-An article must start with a section unlesss it has no section at all.
+An article must start with a section unless it has no section at all.
 
 If the first section title is missing, it will be "Introduction" by default.[^1]
 
@@ -128,7 +128,7 @@ You can submit datasets that provide information on criminal justice and related
 
 ### Datasets fields
 
-The required fields for an Datasets submission are as follows (those prefiex by "?" are optional):
+The required fields for an Datasets submission are as follows (those prefixed by "?" are optional):
 
 - Title
 - Information on each contributor

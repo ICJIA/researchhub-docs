@@ -13,7 +13,7 @@ meta:
 _Research Hub Studio_ ([https://research.icjia.cloud/studio/](https://research.icjia.cloud/studio/)) is the central tool for the content management and publication workflow supported by the _ICJIA Research Hub_ project. Using _Research Hub Studio_, you, Author, can not only create new contents but also manage them throughout the whole publication process.
 
 ::: tip TIP
-See [the Workflow page](workflow.md) for more on the publication process supported by _ICJIA Resesarch Hub_.
+See [the Workflow page](workflow.md) for more on the publication process supported by _ICJIA Research Hub_.
 :::
 
 ### "What you see is what you get"
@@ -53,7 +53,7 @@ See [this tutorial page](tutorials/create-article.md) on creating a new article.
 :::
 
 ::: warning NOTE
-Uploading attachement files, e.g. PDFs for Articles and CSV files for Datasets, is _not_ available in the Create page. To add attachments, you must first create an item without attachments, and edit it in [the Update page](#update-page).
+Uploading attachment files, e.g. PDFs for Articles and CSV files for Datasets, is _not_ available in the Create page. To add attachments, you must first create an item without attachments, and edit it in [the Update page](#update-page).
 :::
 
 ::: warning NOTE
@@ -91,7 +91,7 @@ See [this tutorial page](tutorials/update-article.md) on updating an article.
 :::
 
 ::: warning NOTE
-Downloading attachement files is _not_ available in the _Research Hub Studio_ previews. To test file downloads, use _Research Hub Preview_ links.
+Downloading attachment files is _not_ available in the _Research Hub Studio_ previews. To test file downloads, use _Research Hub Preview_ links.
 :::
 
 #### Select an item to update
@@ -102,11 +102,11 @@ You can select an item to update by clicking the <i class="material-icons">edit<
 
 #### Make and save the changes
 
-The update form looks identical to the create form except that the text-based fields are already filled with the exiting values. For non-text fields such as images and file attachements, the original values are used even thought they do not show up in the form.
+The update form looks identical to the create form except that the text-based fields are already filled with the exiting values. For non-text fields such as images and file attachments, the original values are used even thought they do not show up in the form.
 
 To make updates, change the values and click `SAVE`. Click the `PREVIEW` button next to the `SAVE` button to preview the changes.
 
-Once you are done with makig changes to the item, proceed to apply the changes by clicking the `UPDATE` button on the top right of the form. As before, a popup dialog will appear asking for your confirmation. Click `UPDATE` again to proceed.
+Once you are done with making changes to the item, proceed to apply the changes by clicking the `UPDATE` button on the top right of the form. As before, a popup dialog will appear asking for your confirmation. Click `UPDATE` again to proceed.
 
 ## Manage page
 

@@ -22,7 +22,7 @@ The old process for publication (or web posting) can be described as the followi
 6. IT Team makes changes based on feedback and notify Stakeholders
 7. Stakeholders review the changes
    - If more changes are needed, go back to step 5
-8. Unit Director approves the content and notifies IT Team of the deicision
+8. Unit Director approves the content and notifies IT Team of the decision
 9. IT Team publishes the content and share the public URL
 
 ### Drawback of the old process
@@ -31,7 +31,7 @@ One major drawback of the old process is that the R&A Unit must depend on anothe
 
 First, authors had to wait until the preview URL is created and _only then_ could see what the content would actually look like. This prevented authors from fixing minor mistakes before the content was reviewed by others.
 
-Second, making changes to the content was largely the reponsibility of IT Team. This frequently led to misinterpretation of one's intent by the other in the process of communication.
+Second, making changes to the content was largely the responsibility of IT Team. This frequently led to misinterpretation of one's intent by the other in the process of communication.
 
 The result was a long and unnecessary delay between when a content is ready for publication and when the content is actually published.
 
@@ -50,9 +50,9 @@ _Figure 1_ below illustrates this workflow:
 
 </div>
 
-### Contant status
+### Content status
 
-Using _Research Hub Studio_, Author can not only create a new content item but also change its status, where different statuses reprenset different stages of the publication process.
+Using _Research Hub Studio_, Author can not only create a new content item but also change its status, where different statuses represent different stages of the publication process.
 
 There are three possible statuses: "created", "submitted", and "published."
 
@@ -62,7 +62,7 @@ See [the Using Studio page](studio.md) for more on using _Research Hub Studio_ a
 
 #### Created
 
-"Created" content items are available only on _Research Hub Studio_. Author can create a new item on the Create page of _Resesarch Hub Studio_, which will then have the "created" status.
+"Created" content items are available only on _Research Hub Studio_. Author can create a new item on the Create page of _Research Hub Studio_, which will then have the "created" status.
 
 "Created" items are available on the Update page of _Research Hub Studio_. "Created" items can also be deleted on the Manage page by clicking a red trash bin icon (<i class="material-icons" style="color:red;">delete_forever</i>) on the right side of the table for "created" items.
 

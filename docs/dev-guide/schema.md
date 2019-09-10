@@ -29,7 +29,7 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 |     slug     |   string    | Slug for the item URL             | e.g. "this-is-an-app"                                                            |
 |     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
 |   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
-| cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
+|  categories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
 |     tags     |    json     | Relevant tags                     |                                                                                  |
 | contributors |    json     | Contributors' title and URL       | e.g. `[ { "title": "Jane Doe", "url": "https://janedoe.com" } ]`                 |
 |    image     |   string    | Image in Base64                   |                                                                                  |
@@ -86,7 +86,7 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 |     slug     |   string    | Slug for Article item URL         | e.g. "this-is-an-article"                                                                    |
 |     date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                            |
 |   external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                            |
-| cateogories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other"             |
+|  categories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other"             |
 |     tags     |    json     | Relevant tags                     |                                                                                              |
 |   authors    |    json     | Authors' title and description    | e.g. `[ { "title": "Jane Doe", "description": "Jane Doe is a Research Analyst at ICJIA" } ]` |
 |    splash    |   string    | Splash image in Base64            |                                                                                              |
@@ -97,7 +97,7 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 |   funding    |   string    | Funding acknowledgement           |                                                                                              |
 |   citation   |   string    | Suggested citation                |                                                                                              |
 |     doi      |   string    | Article digital object identifier |                                                                                              |
-| mainfiletype |   string    | Type of the main atttachment      | "full report", "pdf version"                                                                 |
+| mainfiletype |   string    | Type of the main attachment       | "full report", "pdf version"                                                                 |
 |   mainfile   |   uploads   | Main attachment file              | e.g. a PDF version of an article                                                             |
 |  extrafile   |   uploads   | Extra attachment files            | e.g. a zipfile of appendix materials                                                         |
 |     apps     |  relations  | Related App items if any          |                                                                                              |
@@ -164,7 +164,7 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
 |    slug     |   string    | Slug for Dataset item URL         | e.g. "this-is-a-dataset"                                                         |
 |    date     |    date     | Date created or updated           | e.g. "2019-01-01"                                                                |
 |  external   |   boolean   | Is an external contribution?      | `true` or `false`                                                                |
-| cateogories |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
+| categories  |    json     | Relevant categories               | "corrections," "courts," "crimes," "law enforcement," "victimization" or "other" |
 |    tags     |    json     | Relevant tags                     | -                                                                                |
 |   project   |   boolean   | Is project specific?              | `true` or `false`                                                                |
 |   sources   |    json     | Dataset sources' title and URL    | -                                                                                |

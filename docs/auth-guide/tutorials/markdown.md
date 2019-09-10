@@ -10,7 +10,7 @@ meta:
 
 ## Introducing Markdown
 
-[According to Wikipedia](https://en.wikipedia.org/wiki/Markdown), Markdown is "a lightweight markup language with plain text formatting syntax." It is primarily used to author Web contents and its syntax supports that of the basic HTML (HyperText Markup Language), a standard markup langauge for a Web documents.
+[According to Wikipedia](https://en.wikipedia.org/wiki/Markdown), Markdown is "a lightweight markup language with plain text formatting syntax." It is primarily used to author Web contents and its syntax supports that of the basic HTML (HyperText Markup Language), a standard markup language for a Web documents.
 
 ### Why Markdown
 
@@ -18,7 +18,7 @@ HTML syntax requires any element to be enclosed by special tags. For example, a 
 
 Although the basic HTML tags are fairly straightforward and easy to learn, a document with more than the simplest structure can quickly become full of heavily nested elements. Web browsers have no problem understanding it, but we humans do.
 
-Markdown strikes a balacne between explicit structure and human readability. Its syntax has one-to-one correspondence to HTML tags, but removes nested structures, thus making it easier for us humans to compose and consume a document to be published on the Web.
+Markdown strikes a balance between explicit structure and human readability. Its syntax has one-to-one correspondence to HTML tags, but removes nested structures, thus making it easier for us humans to compose and consume a document to be published on the Web.
 
 ### A brief comparison between HTML and Markdown
 
@@ -77,7 +77,7 @@ As a general guideline, follow the hierarchy of the headings and avoid mixing he
 
 ### Special tags
 
-Markdown allows you to write some HTML directly. For Aritlces, this is used to apply the proper styling (e.g. text alignment, color, etc.) to images, tables and special information blocks in the document.
+Markdown allows you to write some HTML directly. For Aritcles, this is used to apply the proper styling (e.g. text alignment, color, etc.) to images, tables and special information blocks in the document.
 
 #### Figures
 
@@ -95,11 +95,11 @@ Markdown allows you to write some HTML directly. For Aritlces, this is used to a
 </div>
 ```
 
-- The figure item consists of enclosing HTML `<div>` tag, figure number (`h4` heading), figure title (`h4` heading), image with "alt text" and file name and one or more additioanl notes (`h6` heading).
+- The figure item consists of enclosing HTML `<div>` tag, figure number (`h4` heading), figure title (`h4` heading), image with "alt text" and file name and one or more additional notes (`h6` heading).
 - The HTML `<div>` tag must have `class="article-figure` attribute.
-- The vertical space (at least one extra line) is required between the opening `<div>` tag line and the first markdwon elements.
-- The "alt text" is displayed if the image failes to load or used by a screen reader for accessibility.
-- Image file name must match that of the uploaded file, without the file extention such as .jpg, .png, etc.
+- The vertical space (at least one extra line) is required between the opening `<div>` tag line and the first markdown elements.
+- The "alt text" is displayed if the image fails to load or used by a screen reader for accessibility.
+- Image file name must match that of the uploaded file, without the file extension such as .jpg, .png, etc.
 
 #### Tables
 
@@ -121,9 +121,9 @@ Markdown allows you to write some HTML directly. For Aritlces, this is used to a
 </div>
 ```
 
-- The table item consists of enclosing HTML `<div>` tag, table number (`h4` heading), table title (`h4` heading), table in the Markdown format and additioanl notes (`h6` heading).
+- The table item consists of enclosing HTML `<div>` tag, table number (`h4` heading), table title (`h4` heading), table in the Markdown format and additional notes (`h6` heading).
 - The HTML `<div>` tag must have `class="article-table` attribute.
-- The vertical space (at least one extra line) is required between the opening `<div>` tag line and the first markdwon elements.
+- The vertical space (at least one extra line) is required between the opening `<div>` tag line and the first markdown elements.
 
 #### Information block
 

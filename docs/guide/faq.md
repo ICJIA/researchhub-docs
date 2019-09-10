@@ -8,11 +8,11 @@ meta:
 
 ## What is _ICJIA Research Hub_?
 
-_ICJIA Research Hub_ is the latest iteration of the ICJIA Research & Analysis (R&A) Unit's ongoing effort to bring criminal justice data and research to the public. It seeks to provide a focused and dedicated platform to share the ICJIA R&A Unit's research activitys and products. It is also an open-source project that allows the public to get engaged in its making.
+_ICJIA Research Hub_ is the latest iteration of the ICJIA Research & Analysis (R&A) Unit's ongoing effort to bring criminal justice data and research to the public. It seeks to provide a focused and dedicated platform to share the ICJIA R&A Unit's research activities and products. It is also an open-source project that allows the public to get engaged in its making.
 
 ## What is ICJIA?
 
-The Illinois Criminal Justice Information Authority (ICJIA) is a state agency dedicated to improving the administration of criminal justice. Its statutory reponsibilities fall under the categories of grants administration, research and analysis, policy and planning, and information systems and technology.
+The Illinois Criminal Justice Information Authority (ICJIA) is a state agency dedicated to improving the administration of criminal justice. Its statutory responsibilities fall under the categories of grants administration, research and analysis, policy and planning, and information systems and technology.
 
 For more information about ICJIA, please visit [the official website](http://icjia.state.il.us).
 

@@ -111,7 +111,7 @@ Following the general practices, the Update form expects you to have at least on
 
 </div>
 
-Setting `the Attach files?` to "yes" shows additional input fields related to adding attachements: `Main file type`, `Main file` and `Extra file`.
+Setting `the Attach files?` to "yes" shows additional input fields related to adding attachments: `Main file type`, `Main file` and `Extra file`.
 
 A main file refers to either the full report of which the Article is a summary or simple the PDF version of the same content. In either case, the `Main file` input is expected to be in the PDF format.
 
@@ -187,7 +187,7 @@ Click the `PREVIEW` button to see the changes as it would appear in _Research Hu
 
 </div>
 
-Preview relfects the changes in the `Abtract` value and the `Spalsh` image. As a reminder, you may see the previous `Splash` image [here](./create-article.md#_4-save-and-preview).
+Preview reflects the changes in the `Abstract` value and the `Splash` image. As a reminder, you may see the previous `Splash` image [here](./create-article.md#_4-save-and-preview).
 
 ::: warning NOTE
 Download buttons for new file attachments do not appear on the Preview dialog for the Update form. However, you will still see them when using Preview in the Manage page.
@@ -197,7 +197,7 @@ Download buttons for new file attachments do not appear on the Preview dialog fo
 
 As in creating a new item, you can reset the form at any point if you need to start from the clean slate. Unlike in the create form, however, `RESET` in the Edit form means recovering the original values.
 
-Click `RESET` button on the top right of the form and you will see the dialog box asking for confirmation. Click `RESET` againto proceed. You may click `BACK` to go back to the form and make futher changes if needed.
+Click `RESET` button on the top right of the form and you will see the dialog box asking for confirmation. Click `RESET` again to proceed. You may click `BACK` to go back to the form and make further changes if needed.
 
 <div style="text-align:center">
 <span class="fig-title">Figure 12a. Click RESET</span>
@@ -215,7 +215,7 @@ Click `RESET` button on the top right of the form and you will see the dialog bo
 
 ## 7. Submit the saved changes
 
-Once you are ready, click the blue `UPDATE` button on the top right of the form. You will see the dialog box asking for confirmation. Click the `UPDATE` button again to proceeed. You may click `BACK` to go back to the form and make futher changes if needed.
+Once you are ready, click the blue `UPDATE` button on the top right of the form. You will see the dialog box asking for confirmation. Click the `UPDATE` button again to proceed. You may click `BACK` to go back to the form and make further changes if needed.
 
 If you proceed and `UPDATE`, you will get a notice from your browser that the item is updated. Click `OK` to close the notice. You will be taken back to the home page.
 

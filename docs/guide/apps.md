@@ -6,7 +6,7 @@ meta:
 
 # Apps
 
-An App is a web application, typically one that allows users to explore some datset in an interactive fashion.
+An App is a web application, typically one that allows users to explore criminal justice data in an interactive fashion.
 
 <div style="text-align:center">
 
@@ -38,7 +38,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 ### Category filter
 
-Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Apps (_Figure 3b_). Select any to see the filtered list of Apps of the select cateroy (_Figure 3c_).
+Category filter is found under the search bar on the left (_Figure 3a_). Click the filter to see what categories are used for the existing Apps (_Figure 3b_). Select any to see the filtered list of Apps of the select category (_Figure 3c_).
 
 <div style="text-align:center">
 

@@ -8,10 +8,6 @@ meta:
 
 # ICJIA Research Hub
 
-::: warning FUNDING ACKNOWLEDGEMENT
-This product was supported by State Justice Statistics (SJS) Program Grant #2018-86-CX-K006, awarded to the Illinois Criminal Justice Information Authority by the U.S. Department of Justice Office of Justice Programs' Bureau of Justice Statistics. Points of view in this product do not necessarily represent the official position or policies of the U.S. Department of Justice.
-:::
-
 <Vuepress />
 
 ## Welcome :tada:
@@ -27,3 +23,7 @@ View the [User Guide](/guide/) for tips on how to navigate _ICJIA Research Hub_ 
 ### For Developers
 
 If you are a developer and want to know technical details of _ICJIA Research Hub_ or make contributions to the project, please visit the [Developer Guide](/dev-guide/).
+
+<div style="padding-bottom: 48px;">
+  <FundingStatement />
+</div>

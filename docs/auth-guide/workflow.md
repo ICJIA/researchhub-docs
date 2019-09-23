@@ -105,3 +105,5 @@ In general, publication of any content is considered final and "published" items
 ::: warning NOTE
 For making changes to already "published" items, there exits a Manager account. Manager can only view the list of "published" items on the Manage page and take down items if needed.
 :::
+
+<FundingStatement />

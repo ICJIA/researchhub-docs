@@ -57,3 +57,5 @@ There are three main implications:
 ::: tip TIP
 See [the Data Schema page](/dev-guide/schema.md) in Developer Guide for more on the content type specification.
 :::
+
+<FundingStatement />

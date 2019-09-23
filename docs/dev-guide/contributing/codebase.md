@@ -24,3 +24,5 @@ Each GitHub repository for an individual component of the _ICJIA Research Hub_ p
 ::: tip TIP
 See [the Project Architecture page](/dev-guide/architecture.md) of this document for more on each components.
 :::
+
+<FundingStatement />

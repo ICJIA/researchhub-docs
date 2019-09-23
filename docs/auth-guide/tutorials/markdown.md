@@ -183,3 +183,5 @@ While the body of each footnote item can appear anywhere in the document, all fo
 In particular, ICJIA Markdown Editor has a "Research" mode to facilitate authoring an Article body. When the "Research" mode is selected, the rendered HTML will have the font and styling similar to that of _Research Hub_. Also, buttons for adding images and tables will insert not only the basic Markdown formatting but also relevant tags and elements specific to Article.
 
 A suggested workflow is to writing your Markdown using ICJIA Markdown Editor, copy it to clipboard, and pasting it to the markdown input field in the _Research Hub Studio_ form.
+
+<FundingStatement />

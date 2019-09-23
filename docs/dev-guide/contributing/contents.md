@@ -165,3 +165,5 @@ The required fields for an Datasets submission are as follows (those prefixed by
 | cook        | bool  | Is Cook county?         | 1 for true, 0 for false |
 | arrest      | int   | Arrest count            | Non-negative            |
 | arrest_rate | float | Arrest rate per 100,000 | Non-negative            |
+
+<FundingStatement />

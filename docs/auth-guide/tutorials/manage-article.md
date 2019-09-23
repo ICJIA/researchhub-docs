@@ -189,3 +189,5 @@ As before, you can see the preview by clicking the <i class="material-icons">vis
 </div>
 
 :tada: Congratulations! Now the Article is published.
+
+<FundingStatement />

@@ -158,3 +158,5 @@ For regular Author, only one action is available for each "published" item:
   - Click the blue `PUBLIC LINK` button on the top to see the item on _Research Hub_.
   - Click the `SHOW CARD` button on the top to switch to a card view. To return to the full view, click the `SHOW VIEW` button at the same location.
   - Click the <i class="material-icons">close</i> button on the top right to close the preview window.
+
+<FundingStatement />

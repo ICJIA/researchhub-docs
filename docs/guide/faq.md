@@ -31,3 +31,5 @@ Please start with [the Code of Conduct page](/dev-guide/contributing/code_of_con
 _ICJIA Research Hub_ organizes its publications, or contents, in categories. Each category represents a specific aspect or subject field of criminal justice research and data.
 
 Currently, there are six categories in total: Corrections, Courts, Crimes, Law enforcement, Victims, and Other. This category list draws on the list of "Topics" used by the Bureau of Justice Statistics to organize contents on [the Bureau's website](https://www.bjs.gov/).
+
+<FundingStatement />

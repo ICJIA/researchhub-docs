@@ -241,3 +241,5 @@ If you proceed and `UPDATE`, you will get a notice from your browser that the it
 </div>
 
 🎉 Congratulations! Now the Article is updated.
+
+<FundingStatement />

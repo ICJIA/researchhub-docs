@@ -97,3 +97,5 @@ npm run docs:dev
 # build to static files.
 npm run docs:build
 ```
+
+<FundingStatement />

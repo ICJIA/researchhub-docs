@@ -132,3 +132,5 @@ A typical Article attachment includes a PDF file of the full research report.
 ::: tip TIP
 Click the author name to see the list of all articles by the author.
 :::
+
+<FundingStatement />

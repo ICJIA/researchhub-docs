@@ -81,3 +81,5 @@ In order to serve as a true platform ("Hub") for research on criminal justice in
 Please consider making contributions to _Research Hub_ to enrich this public platform for criminal justice research as well as to find a broader audience for your own research. Your contributions will go through an internal review process and be published as a new entry for the relevant content type on _Research Hub_.
 
 Please see [the Contributing contents page](/dev-guide/contributing/contents.md) in Developer Guide to learn more on contributing contents to _Research Hub_.
+
+<FundingStatement />

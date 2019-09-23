@@ -91,3 +91,5 @@ Research Hub Preview ([GitHub](https://github.com/ICJIA/icjia-research-studio)) 
 ![organization diagram](/docs/assets/img/diagram-organization.png)
 
 </div>
+
+<FundingStatement />

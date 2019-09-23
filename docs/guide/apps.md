@@ -103,3 +103,5 @@ The full view for an App item has the following information:
 ![Example App view](/docs/assets/img/app-view.png)
 
 </div>
+
+<FundingStatement />

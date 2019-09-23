@@ -117,3 +117,5 @@ When you click the "Download" button, you will see a dialog window asking you to
 ![Example Dataset view](/docs/assets/img/dataset-download.png)
 
 </div>
+
+<FundingStatement />

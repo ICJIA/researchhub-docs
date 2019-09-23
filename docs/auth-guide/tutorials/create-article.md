@@ -422,3 +422,5 @@ If you proceed and `CREATE`, you will get a notice from your browser that the ne
 </div>
 
 :tada: Congratulations! Now the Article is created.
+
+<FundingStatement />

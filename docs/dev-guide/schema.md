@@ -230,3 +230,5 @@ The "strapi type" in the fields tables below refers to "attribute types" offered
   ]
 }
 ```
+
+<FundingStatement />

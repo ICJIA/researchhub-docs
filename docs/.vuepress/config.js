@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/docs/",
+  base: "/researchhub/docs/",
   title: "Research Hub",
   description: "Documentation site for ICJIA Research Hub.",
   head: [

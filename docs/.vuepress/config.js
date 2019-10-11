@@ -23,7 +23,7 @@ module.exports = {
     nav: [
       { text: "User Guide", link: "/guide/" },
       { text: "Developer Guide", link: "/dev-guide/" },
-      { text: "Research Hub", link: "https://research.icjia.cloud" }
+      { text: "Research Hub", link: "https://icjia.illinois.gov/researchhub" }
     ],
     sidebar: {
       "/guide/": [

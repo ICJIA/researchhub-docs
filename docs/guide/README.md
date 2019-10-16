@@ -42,14 +42,14 @@ The search bar allows you to quickly find contents using search terms. In _Figur
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Search bar on homepage</span>
 
-![search bar](/docs/assets/img/search-bar.png)
+![search bar](/researchhub/docs/assets/img/search-bar.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Search result page example</span>
 
-![search page example](/docs/assets/img/search-page.png)
+![search page example](/researchhub/docs/assets/img/search-page.png)
 
 </div>
 

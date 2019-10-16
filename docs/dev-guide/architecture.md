@@ -24,7 +24,7 @@ _Figure 1_ below provides a graphical summary of how these components relate to 
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Main components</span>
 
-![architecture diagram](/docs/assets/img/diagram-architecture.png)
+![architecture diagram](/researchhub/docs/assets/img/diagram-architecture.png)
 
 </div>
 
@@ -88,7 +88,7 @@ Research Hub Preview ([GitHub](https://github.com/ICJIA/icjia-research-studio)) 
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Deployment strategy</span>
 
-![organization diagram](/docs/assets/img/diagram-organization.png)
+![organization diagram](/researchhub/docs/assets/img/diagram-organization.png)
 
 </div>
 

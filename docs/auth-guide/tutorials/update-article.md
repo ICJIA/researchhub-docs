@@ -19,7 +19,7 @@ When you log in, you will see three "task cards." Click on a card saying `UPDATE
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Go to Update page</span>
 
-![Go to Update page](/docs/assets/img/tutorial-update1.png)
+![Go to Update page](/researchhub/docs/assets/img/tutorial-update1.png)
 
 </div>
 
@@ -34,7 +34,7 @@ The Update page allows you to edit an item of one of the three available content
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Select the content type</span>
 
-![Select the content type](/docs/assets/img/tutorial-update2.png)
+![Select the content type](/researchhub/docs/assets/img/tutorial-update2.png)
 
 </div>
 
@@ -49,7 +49,7 @@ The list shows date and title of each Articles item to help you to find an item 
 <div style="text-align:center">
 <span class="fig-title">Figure 3. Item table</span>
 
-![Select the item, table](/docs/assets/img/tutorial-update3-table.png)
+![Select the item, table](/researchhub/docs/assets/img/tutorial-update3-table.png)
 
 </div>
 
@@ -58,14 +58,14 @@ When you know which item to edit, click the <i class="material-icons">edit</i> b
 <div style="text-align:center">
 <span class="fig-title">Figure 4a. Click the <i class="material-icons">edit</i> button to select</span>
 
-![Select the item, selected](/docs/assets/img/tutorial-update3-selected1.png)
+![Select the item, selected](/researchhub/docs/assets/img/tutorial-update3-selected1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 4b. Item selected</span>
 
-![Select the item, selected dialog](/docs/assets/img/tutorial-update3-selected2.png)
+![Select the item, selected dialog](/researchhub/docs/assets/img/tutorial-update3-selected2.png)
 
 </div>
 
@@ -74,7 +74,7 @@ When an item is selected, a popup dialog will appear to confirm that the item is
 <div style="text-align:center">
 <span class="fig-title">Figure 5. Navigate to form</span>
 
-![Select the item, navigate to form](/docs/assets/img/tutorial-update3-navigate.png)
+![Select the item, navigate to form](/researchhub/docs/assets/img/tutorial-update3-navigate.png)
 
 </div>
 
@@ -87,14 +87,14 @@ In this tutorial, the `Abstract` value is updated.
 <div style="text-align:center">
 <span class="fig-title">Figure 6a. Update form with original value</span>
 
-![Make changes](/docs/assets/img/tutorial-update4-change1.png)
+![Make changes](/researchhub/docs/assets/img/tutorial-update4-change1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 6b. Make changes</span>
 
-![Make changes](/docs/assets/img/tutorial-update4-change2.png)
+![Make changes](/researchhub/docs/assets/img/tutorial-update4-change2.png)
 
 </div>
 
@@ -107,7 +107,7 @@ Following the general practices, the Update form expects you to have at least on
 <div style="text-align:center">
 <span class="fig-title">Figure 7. "Attach files?" option  </span>
 
-![Make changes, "Attach files?" option](/docs/assets/img/tutorial-update4-file1.png)
+![Make changes, "Attach files?" option](/researchhub/docs/assets/img/tutorial-update4-file1.png)
 
 </div>
 
@@ -122,7 +122,7 @@ In this tutorial, `Main file type` is set to "full report" and one PDF file is a
 <div style="text-align:center">
 <span class="fig-title">Figure 8. Add a dummy PDF file to Main file</span>
 
-![Make changes, add a dummy PDF file](/docs/assets/img/tutorial-update4-file2.png)
+![Make changes, add a dummy PDF file](/researchhub/docs/assets/img/tutorial-update4-file2.png)
 
 </div>
 
@@ -152,7 +152,7 @@ In this tutorial, a new `Splash` image is added to replace the old one for demon
 <div style="text-align:center">
 <span class="fig-title">Figure 9. Add a new Splash image</span>
 
-![Make changes](/docs/assets/img/tutorial-update4-image.png)
+![Make changes](/researchhub/docs/assets/img/tutorial-update4-image.png)
 
 </div>
 
@@ -167,14 +167,14 @@ Once you made all the necessary changes, click the `SAVE` button on the bottom t
 <div style="text-align:center">
 <span class="fig-title">Figure 10a. Save your work</span>
 
-![Save the form](/docs/assets/img/tutorial-update5-save1.png)
+![Save the form](/researchhub/docs/assets/img/tutorial-update5-save1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 10b. Work is saved</span>
 
-![Saved](/docs/assets/img/tutorial-update5-save2.png)
+![Saved](/researchhub/docs/assets/img/tutorial-update5-save2.png)
 
 </div>
 
@@ -183,7 +183,7 @@ Click the `PREVIEW` button to see the changes as it would appear in _Research Hu
 <div style="text-align:center">
 <span class="fig-title">Figure 11. See Preview dialog</span>
 
-![Preview dialog](/docs/assets/img/tutorial-update5-preview.png)
+![Preview dialog](/researchhub/docs/assets/img/tutorial-update5-preview.png)
 
 </div>
 
@@ -202,14 +202,14 @@ Click `RESET` button on the top right of the form and you will see the dialog bo
 <div style="text-align:center">
 <span class="fig-title">Figure 12a. Click RESET</span>
 
-![Submit saved](/docs/assets/img/tutorial-update6a.png)
+![Submit saved](/researchhub/docs/assets/img/tutorial-update6a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 12b. See Reset dialog</span>
 
-![Submit saved](/docs/assets/img/tutorial-update6b.png)
+![Submit saved](/researchhub/docs/assets/img/tutorial-update6b.png)
 
 </div>
 
@@ -222,21 +222,21 @@ If you proceed and `UPDATE`, you will get a notice from your browser that the it
 <div style="text-align:center">
 <span class="fig-title">Figure 13a. Click UPDATE</span>
 
-![Submit, click UPDATE](/docs/assets/img/tutorial-update7a.png)
+![Submit, click UPDATE](/researchhub/docs/assets/img/tutorial-update7a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 13b. See Update dialog</span>
 
-![Submit, see Update dialog](/docs/assets/img/tutorial-update7b.png)
+![Submit, see Update dialog](/researchhub/docs/assets/img/tutorial-update7b.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 13c. Article is updated</span>
 
-![Submit, Article is updated](/docs/assets/img/tutorial-update7c.png)
+![Submit, Article is updated](/researchhub/docs/assets/img/tutorial-update7c.png)
 
 </div>
 

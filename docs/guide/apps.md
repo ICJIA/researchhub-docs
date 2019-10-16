@@ -12,7 +12,7 @@ An App is a web application, typically one that allows users to explore criminal
 
 <span class="fig-title">Figure 1. Apps page</span>
 
-![Apps page](/docs/assets/img/app-page.png)
+![Apps page](/researchhub/docs/assets/img/app-page.png)
 
 </div>
 
@@ -32,7 +32,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 <span class="fig-title">Figure 2. Example Apps search result</span>
 
-![Example Apps search](/docs/assets/img/app-search.png)
+![Example Apps search](/researchhub/docs/assets/img/app-search.png)
 
 </div>
 
@@ -44,7 +44,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3a. Apps category filter</span>
 
-![Apps category filter](/docs/assets/img/app-filter-1.png)
+![Apps category filter](/researchhub/docs/assets/img/app-filter-1.png)
 
 </div>
 
@@ -52,7 +52,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3b. Using Apps category filter</span>
 
-![Apps category filter](/docs/assets/img/app-filter-2.png)
+![Apps category filter](/researchhub/docs/assets/img/app-filter-2.png)
 
 </div>
 
@@ -60,7 +60,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3c. Example Apps category filter result ("corrections")</span>
 
-![Example Apps category filter result](/docs/assets/img/app-filter-3.png)
+![Example Apps category filter result](/researchhub/docs/assets/img/app-filter-3.png)
 
 </div>
 
@@ -77,7 +77,7 @@ The card view for an App item has the following information:
 
 <span class="fig-title">Figure 4. Example App card</span>
 
-![Example App card](/docs/assets/img/app-card.png)
+![Example App card](/researchhub/docs/assets/img/app-card.png)
 
 </div>
 
@@ -100,7 +100,7 @@ The full view for an App item has the following information:
 
 <span class="fig-title">Figure 5. Example App view</span>
 
-![Example App view](/docs/assets/img/app-view.png)
+![Example App view](/researchhub/docs/assets/img/app-view.png)
 
 </div>
 

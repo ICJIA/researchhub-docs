@@ -27,7 +27,7 @@ All features of _Research Hub Studio_ are available to authenticated users only.
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Login page</span>
 
-![workflow diagram](/docs/assets/img/login.png)
+![workflow diagram](/researchhub/docs/assets/img/login.png)
 
 </div>
 
@@ -38,7 +38,7 @@ _Research Hub Studio_ supports three main tasks: Create, Update and Manage. Each
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Home page</span>
 
-![Research Hub Studio home page](/docs/assets/img/home.png)
+![Research Hub Studio home page](/researchhub/docs/assets/img/home.png)
 
 </div>
 

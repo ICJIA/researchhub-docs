@@ -12,7 +12,7 @@ A Dataset is a data file in a machine-friendly format (e.g. comma separated valu
 
 <span class="fig-title">Figure 1. Datasets page</span>
 
-![Datasets page](/docs/assets/img/dataset-page.png)
+![Datasets page](/researchhub/docs/assets/img/dataset-page.png)
 
 </div>
 
@@ -33,7 +33,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 <span class="fig-title">Figure 2. Example Datasets search result</span>
 
-![Example Dataset search](/docs/assets/img/dataset-search.png)
+![Example Dataset search](/researchhub/docs/assets/img/dataset-search.png)
 
 </div>
 
@@ -45,7 +45,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3a. Datasets category filter</span>
 
-![Datasets category filter](/docs/assets/img/dataset-filter-1.png)
+![Datasets category filter](/researchhub/docs/assets/img/dataset-filter-1.png)
 
 </div>
 
@@ -53,7 +53,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3b. Using Datasets category filter</span>
 
-![Using Datasets category filter](/docs/assets/img/dataset-filter-2.png)
+![Using Datasets category filter](/researchhub/docs/assets/img/dataset-filter-2.png)
 
 </div>
 
@@ -61,7 +61,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3c. Example Datasets category filter result ("corrections")</span>
 
-![Example Datasets category filter result](/docs/assets/img/dataset-filter-3.png)
+![Example Datasets category filter result](/researchhub/docs/assets/img/dataset-filter-3.png)
 
 </div>
 
@@ -78,7 +78,7 @@ The card view for an Dataset item has the following information:
 
 <span class="fig-title">Figure 4. Example Dataset card</span>
 
-![Example Dataset card](/docs/assets/img/dataset-card.png)
+![Example Dataset card](/researchhub/docs/assets/img/dataset-card.png)
 
 </div>
 
@@ -102,7 +102,7 @@ The full view for an Dataset item has the following information:
 
 <span class="fig-title">Figure 5. Example Dataset view</span>
 
-![Example Dataset view](/docs/assets/img/dataset-view.png)
+![Example Dataset view](/researchhub/docs/assets/img/dataset-view.png)
 
 </div>
 
@@ -114,7 +114,7 @@ When you click the "Download" button, you will see a dialog window asking you to
 
 <span class="fig-title">Figure 5. Dataset download dialog</span>
 
-![Example Dataset view](/docs/assets/img/dataset-download.png)
+![Example Dataset view](/researchhub/docs/assets/img/dataset-download.png)
 
 </div>
 

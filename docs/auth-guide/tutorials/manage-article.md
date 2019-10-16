@@ -19,7 +19,7 @@ When you log in, you will see three "task cards." Click on a card saying `MANAGE
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Go to Manage page</span>
 
-![Go to the Manage page](/docs/assets/img/tutorial-manage1.png)
+![Go to the Manage page](/researchhub/docs/assets/img/tutorial-manage1.png)
 
 </div>
 
@@ -34,7 +34,7 @@ The Manage page allows you to manage items of one of the three available content
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Select the content type</span>
 
-![Select the content type](/docs/assets/img/tutorial-manage2.png)
+![Select the content type](/researchhub/docs/assets/img/tutorial-manage2.png)
 
 </div>
 
@@ -49,7 +49,7 @@ As the default, the list shows items of the "Submitted" status.
 <div style="text-align:center">
 <span class="fig-title">Figure 3. Item table</span>
 
-![Item table](/docs/assets/img/tutorial-manage3-table.png)
+![Item table](/researchhub/docs/assets/img/tutorial-manage3-table.png)
 
 </div>
 
@@ -62,7 +62,7 @@ Click "Created" to change the status.
 <div style="text-align:center">
 <span class="fig-title">Figure 4. Select "created"</span>
 
-![Select the status "Created"](/docs/assets/img/tutorial-manage3-created.png)
+![Select the status "Created"](/researchhub/docs/assets/img/tutorial-manage3-created.png)
 
 </div>
 
@@ -73,7 +73,7 @@ The list shows date and title of each Articles item to help you to find an item 
 <div style="text-align:center">
 <span class="fig-title">Figure 5. Preview the created item</span>
 
-![Preview the created item](/docs/assets/img/tutorial-manage4.png)
+![Preview the created item](/researchhub/docs/assets/img/tutorial-manage4.png)
 
 </div>
 
@@ -86,21 +86,21 @@ To submit the item, i.e. change the item's status to "Submitted," click the <i c
 <div style="text-align:center">
 <span class="fig-title">Figure 5a. Submit item</span>
 
-![Submit item, table](/docs/assets/img/tutorial-manage5a.png)
+![Submit item, table](/researchhub/docs/assets/img/tutorial-manage5a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 5b. Item submitted</span>
 
-![Submit item, submitted](/docs/assets/img/tutorial-manage5b.png)
+![Submit item, submitted](/researchhub/docs/assets/img/tutorial-manage5b.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 5c. Item table updated</span>
 
-![Submit item, table updated](/docs/assets/img/tutorial-manage5c.png)
+![Submit item, table updated](/researchhub/docs/assets/img/tutorial-manage5c.png)
 
 </div>
 
@@ -115,7 +115,7 @@ Click "Submitted" to change the status and view the list of submitted Articles i
 <div style="text-align:center">
 <span class="fig-title">Figure 6. Select "submitted"</span>
 
-![Select the status "Submitted"](/docs/assets/img/tutorial-manage6.png)
+![Select the status "Submitted"](/researchhub/docs/assets/img/tutorial-manage6.png)
 
 </div>
 
@@ -126,14 +126,14 @@ Click "Submitted" to change the status and view the list of submitted Articles i
 <div style="text-align:center">
 <span class="fig-title">Figure 7a. Preview the submitted item</span>
 
-![Preview submitted](/docs/assets/img/tutorial-manage7a.png)
+![Preview submitted](/researchhub/docs/assets/img/tutorial-manage7a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 7b. See the item in <em>Reseasrch Hub Preview</em></span>
 
-![See submitted in Research Hub Preview](/docs/assets/img/tutorial-manage7b.png)
+![See submitted in Research Hub Preview](/researchhub/docs/assets/img/tutorial-manage7b.png)
 
 </div>
 
@@ -148,14 +148,14 @@ To publish the item, i.e. change the item's status to "Published," click the <i 
 <div style="text-align:center">
 <span class="fig-title">Figure 8a. Publish item</span>
 
-![Publish item, table](/docs/assets/img/tutorial-manage8a.png)
+![Publish item, table](/researchhub/docs/assets/img/tutorial-manage8a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 8b. Item published</span>
 
-![Publish item, published](/docs/assets/img/tutorial-manage8b.png)
+![Publish item, published](/researchhub/docs/assets/img/tutorial-manage8b.png)
 
 </div>
 
@@ -166,7 +166,7 @@ Click "Published" to change the status and view the list of published Articles i
 <div style="text-align:center">
 <span class="fig-title">Figure 9. Select "published"</span>
 
-![Select "published"](/docs/assets/img/tutorial-manage9.png)
+![Select "published"](/researchhub/docs/assets/img/tutorial-manage9.png)
 
 </div>
 
@@ -177,14 +177,14 @@ As before, you can see the preview by clicking the <i class="material-icons">vis
 <div style="text-align:center">
 <span class="fig-title">Figure 10a. Preview the published item</span>
 
-![Preview published](/docs/assets/img/tutorial-manage10a.png)
+![Preview published](/researchhub/docs/assets/img/tutorial-manage10a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 10b. See the item in <em>Research Hub</em></span>
 
-![See published in Research Hub](/docs/assets/img/tutorial-manage10b.png)
+![See published in Research Hub](/researchhub/docs/assets/img/tutorial-manage10b.png)
 
 </div>
 

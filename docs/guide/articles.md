@@ -12,7 +12,7 @@ An Article is a writing piece, typically a report on a research project conducte
 
 <span class="fig-title">Figure 1. Articles page</span>
 
-![Articles page](/docs/assets/img/article-page.png)
+![Articles page](/researchhub/docs/assets/img/article-page.png)
 
 </div>
 
@@ -37,7 +37,7 @@ Simply type words into the search bar on the top and you will get the filtered l
 
 <span class="fig-title">Figure 2. Example Articles search result</span>
 
-![Example Articles search](/docs/assets/img/article-search.png)
+![Example Articles search](/researchhub/docs/assets/img/article-search.png)
 
 </div>
 
@@ -49,7 +49,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3a. Articles category filter</span>
 
-![Articles category filter](/docs/assets/img/article-filter-1.png)
+![Articles category filter](/researchhub/docs/assets/img/article-filter-1.png)
 
 </div>
 
@@ -57,7 +57,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3b. Using Articles category filter</span>
 
-![Using Articles category filter](/docs/assets/img/article-filter-2.png)
+![Using Articles category filter](/researchhub/docs/assets/img/article-filter-2.png)
 
 </div>
 
@@ -65,7 +65,7 @@ Category filter is found under the search bar on the left (_Figure 3a_). Click t
 
 <span class="fig-title">Figure 3c. Example Articles category filter result ("corrections")</span>
 
-![Example Articles category filter result](/docs/assets/img/article-filter-3.png)
+![Example Articles category filter result](/researchhub/docs/assets/img/article-filter-3.png)
 
 </div>
 
@@ -83,7 +83,7 @@ The card view for an Article item has the following information:
 
 <span class="fig-title">Figure 4. Example Article card</span>
 
-![Example Article card](/docs/assets/img/article-card1.png)
+![Example Article card](/researchhub/docs/assets/img/article-card1.png)
 
 </div>
 
@@ -93,7 +93,7 @@ If you click the `ABSTRACT` button on the bottom right, the Article card will ex
 
 <span class="fig-title">Figure 5. Example Article card (expanded)</span>
 
-![Example Article card expanded](/docs/assets/img/article-card2.png)
+![Example Article card expanded](/researchhub/docs/assets/img/article-card2.png)
 
 </div>
 
@@ -121,7 +121,7 @@ The full view for an Article item has the following information:
 
 <span class="fig-title">Figure 4. Example App view</span>
 
-![Example App view](/docs/assets/img/article-view.png)
+![Example App view](/researchhub/docs/assets/img/article-view.png)
 
 </div>
 

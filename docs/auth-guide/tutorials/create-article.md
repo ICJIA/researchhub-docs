@@ -19,7 +19,7 @@ When you log in, you will see three "task cards." Click on a card saying `CREATE
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Go to Create page</span>
 
-![Go to Create page](/docs/assets/img/tutorial-create1.png)
+![Go to Create page](/researchhub/docs/assets/img/tutorial-create1.png)
 
 </div>
 
@@ -34,7 +34,7 @@ The Create page allows you to author an item of one of the three available conte
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Select the content type</span>
 
-![Select the content type](/docs/assets/img/tutorial-create2.png)
+![Select the content type](/researchhub/docs/assets/img/tutorial-create2.png)
 
 </div>
 
@@ -49,7 +49,7 @@ The Articles form has many fields for you to fill out and looks like the followi
 <div style="text-align:center">
 <span class="fig-title">Figure 3. Article form</span>
 
-![Fill out the form A](/docs/assets/img/tutorial-create3a.png)
+![Fill out the form A](/researchhub/docs/assets/img/tutorial-create3a.png)
 
 </div>
 
@@ -58,7 +58,7 @@ Start filling out the fields. While some of the fields are optional, many includ
 <div style="text-align:center">
 <span class="fig-title">Figure 4. Fill out the form</span>
 
-![Fill out the form B](/docs/assets/img/tutorial-create3b.png)
+![Fill out the form B](/researchhub/docs/assets/img/tutorial-create3b.png)
 
 </div>
 
@@ -69,21 +69,21 @@ When you are filling out the `Tags` field, consider choosing from the existing t
 <div style="text-align:center">
 <span class="fig-title">Figure 5a. Click the <i class="material-icons">zoom_in</i> button</span>
 
-![Fill out the form, tags 1](/docs/assets/img/tutorial-create3-tags1.png)
+![Fill out the form, tags 1](/researchhub/docs/assets/img/tutorial-create3-tags1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 5b. Select tags to use</span>
 
-![Fill out the form, tags 2](/docs/assets/img/tutorial-create3-tags2.png)
+![Fill out the form, tags 2](/researchhub/docs/assets/img/tutorial-create3-tags2.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 5c. Selected tags appear in the field</span>
 
-![Fill out the form, tags 3](/docs/assets/img/tutorial-create3-tags3.png)
+![Fill out the form, tags 3](/researchhub/docs/assets/img/tutorial-create3-tags3.png)
 
 </div>
 
@@ -92,7 +92,7 @@ If the existing tags are not sufficient, simply type in more tags to use. Tags m
 <div style="text-align:center">
 <span class="fig-title">Figure 6. Type in a new tag</span>
 
-![Fill out the form, tags 3](/docs/assets/img/tutorial-create3-tags4.png)
+![Fill out the form, tags 3](/researchhub/docs/assets/img/tutorial-create3-tags4.png)
 
 </div>
 
@@ -109,14 +109,14 @@ As in `Tags`, first consider choosing from the existing authors of published Art
 <div style="text-align:center">
 <span class="fig-title">Figure 7a. Click the <i class="material-icons">zoom_in</i> button</span>
 
-![Fill out the form, authors](/docs/assets/img/tutorial-create3-authors1.png)
+![Fill out the form, authors](/researchhub/docs/assets/img/tutorial-create3-authors1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 7b. Select authors to use</span>
 
-![Fill out the form, authors](/docs/assets/img/tutorial-create3-authors2.png)
+![Fill out the form, authors](/researchhub/docs/assets/img/tutorial-create3-authors2.png)
 
 </div>
 
@@ -130,14 +130,14 @@ Please note that the format requires you to:
 <div style="text-align:center">
 <span class="fig-title">Figure 8a. Selected authors appear in the field</span>
 
-![Fill out the form, authors](/docs/assets/img/tutorial-create3-authors3.png)
+![Fill out the form, authors](/researchhub/docs/assets/img/tutorial-create3-authors3.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 8b. Type in descriptions</span>
 
-![Fill out the form, authors](/docs/assets/img/tutorial-create3-authors4.png)
+![Fill out the form, authors](/researchhub/docs/assets/img/tutorial-create3-authors4.png)
 
 </div>
 
@@ -156,21 +156,21 @@ To add an image, you can either "drag and drop" an image to the appropriate box 
 <div style="text-align:center">
 <span class="fig-title">Figure 9a. Adding a Splash image with drag and drop</span>
 
-![Fill out the form, images 1](/docs/assets/img/tutorial-create3-images1.png)
+![Fill out the form, images 1](/researchhub/docs/assets/img/tutorial-create3-images1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 9b. Adding a Splash image via file explorer</span>
 
-![Fill out the form, images 2](/docs/assets/img/tutorial-create3-images2.png)
+![Fill out the form, images 2](/researchhub/docs/assets/img/tutorial-create3-images2.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 9c. A Splash image is added</span>
 
-![Fill out the form, images 3](/docs/assets/img/tutorial-create3-images3.png)
+![Fill out the form, images 3](/researchhub/docs/assets/img/tutorial-create3-images3.png)
 
 </div>
 
@@ -181,7 +181,7 @@ This tutorial is adding two image files, "barchart.png" and "linechart.jpg."
 <div style="text-align:center">
 <span class="fig-title">Figure 10. Figures images are added</span>
 
-![Fill out the form, images 4](/docs/assets/img/tutorial-create3-images4.png)
+![Fill out the form, images 4](/researchhub/docs/assets/img/tutorial-create3-images4.png)
 
 </div>
 
@@ -213,7 +213,7 @@ Fill in the the grey text area for the Article body using the Markdown syntax. Y
 <div style="text-align:center">
 <span class="fig-title">Figure 11. Fill out the markdown input</span>
 
-![Fill out the form, markdown](/docs/assets/img/tutorial-create3-markdown.png)
+![Fill out the form, markdown](/researchhub/docs/assets/img/tutorial-create3-markdown.png)
 
 </div>
 
@@ -304,7 +304,7 @@ You can add suggested citation and funding acknowledgment to the current Article
 <div style="text-align:center">
 <span class="fig-title">Figure 12. Fill out suggested citation and funding acknowledgement</span>
 
-![Fill out the form, suggested citation and funding acknowledgement](/docs/assets/img/tutorial-create3-citation-funding.png)
+![Fill out the form, suggested citation and funding acknowledgement](/researchhub/docs/assets/img/tutorial-create3-citation-funding.png)
 
 </div>
 
@@ -319,14 +319,14 @@ You can create links to published Apps or Datasets items that are related to the
 <div style="text-align:center">
 <span class="fig-title">Figure 12a. Choose from published Apps</span>
 
-![Fill out the form, related](/docs/assets/img/tutorial-create3-related1.png)
+![Fill out the form, related](/researchhub/docs/assets/img/tutorial-create3-related1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 12b. Selected item appear in the field</span>
 
-![Fill out the form, related](/docs/assets/img/tutorial-create3-related2.png)
+![Fill out the form, related](/researchhub/docs/assets/img/tutorial-create3-related2.png)
 
 </div>
 
@@ -339,14 +339,14 @@ Once you filled out all the required fields, click the `SAVE` button on the bott
 <div style="text-align:center">
 <span class="fig-title">Figure 13a. Save your work</span>
 
-![Save the form](/docs/assets/img/tutorial-create4-save1.png)
+![Save the form](/researchhub/docs/assets/img/tutorial-create4-save1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 13b. Work is saved</span>
 
-![Saved](/docs/assets/img/tutorial-create4-save2.png)
+![Saved](/researchhub/docs/assets/img/tutorial-create4-save2.png)
 
 </div>
 
@@ -355,14 +355,14 @@ Once the item is saved, you can click the `PREVIEW` button to see the rendered i
 <div style="text-align:center">
 <span class="fig-title">Figure 14a. Preview is now enabled</span>
 
-![Preview enabled](/docs/assets/img/tutorial-create4-preview1.png)
+![Preview enabled](/researchhub/docs/assets/img/tutorial-create4-preview1.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 14b. See Preview dialog</span>
 
-![Preview dialog](/docs/assets/img/tutorial-create4-preview2.png)
+![Preview dialog](/researchhub/docs/assets/img/tutorial-create4-preview2.png)
 
 </div>
 
@@ -383,14 +383,14 @@ If for whatever reason you need to start from the clean slate, you can reset the
 <div style="text-align:center">
 <span class="fig-title">Figure 16a. Click RESET</span>
 
-![Submit saved](/docs/assets/img/tutorial-create5a.png)
+![Submit saved](/researchhub/docs/assets/img/tutorial-create5a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 16b. See Reset dialog</span>
 
-![Submit saved](/docs/assets/img/tutorial-create5b.png)
+![Submit saved](/researchhub/docs/assets/img/tutorial-create5b.png)
 
 </div>
 
@@ -403,21 +403,21 @@ If you proceed and `CREATE`, you will get a notice from your browser that the ne
 <div style="text-align:center">
 <span class="fig-title">Figure 16a. Click CREATE</span>
 
-![Submit, click CREATE](/docs/assets/img/tutorial-create6a.png)
+![Submit, click CREATE](/researchhub/docs/assets/img/tutorial-create6a.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 16b. See Create dialog</span>
 
-![Submit, see Create dialog](/docs/assets/img/tutorial-create6b.png)
+![Submit, see Create dialog](/researchhub/docs/assets/img/tutorial-create6b.png)
 
 </div>
 
 <div style="text-align:center">
 <span class="fig-title">Figure 16c. Article is created</span>
 
-![Submit, Article is created](/docs/assets/img/tutorial-create6c.png)
+![Submit, Article is created](/researchhub/docs/assets/img/tutorial-create6c.png)
 
 </div>
 

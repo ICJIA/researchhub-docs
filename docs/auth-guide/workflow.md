@@ -46,7 +46,7 @@ _Figure 1_ below illustrates this workflow:
 <div style="text-align:center">
 <span class="fig-title">Figure 1. Publication workflow</span>
 
-![workflow diagram](/docs/assets/img/diagram-workflow.png)
+![workflow diagram](/researchhub/docs/assets/img/diagram-workflow.png)
 
 </div>
 

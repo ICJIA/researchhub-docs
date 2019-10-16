@@ -83,7 +83,7 @@ Although preview URLs are generated for internal review purposes only, they are 
 Preview URLs have the following format:
 
 ```
-https://research.icjia.cloud/preview/<content-type>/<slug>
+https://icjia.illinois.gov/researchhub/preview/<content-type>/<slug>
 ```
 
 Here, `<content-type>` is either`apps`, `articles` or `datasets`. `<slug>` is unique to each content item and is based on the title.
@@ -97,7 +97,7 @@ Author can promote a "submitted" item to be of the "published" status by clickin
 Public URLs have the following format:
 
 ```
-https://research.icjia.cloud/<content-type>/<slug>
+https://icjia.illinois.gov/researchhub/<content-type>/<slug>
 ```
 
 In general, publication of any content is considered final and "published" items cannot be taken down by Author.

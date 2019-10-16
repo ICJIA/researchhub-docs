@@ -10,7 +10,7 @@ meta:
 
 ## About _Studio_
 
-_Research Hub Studio_ ([https://research.icjia.cloud/studio/](https://research.icjia.cloud/studio/)) is the central tool for the content management and publication workflow supported by the _ICJIA Research Hub_ project. Using _Research Hub Studio_, you, Author, can not only create new contents but also manage them throughout the whole publication process.
+_Research Hub Studio_ ([https://icjia.illinois.gov/researchhub/studio/](https://icjia.illinois.gov/researchhub/studio/)) is the central tool for the content management and publication workflow supported by the _ICJIA Research Hub_ project. Using _Research Hub Studio_, you, Author, can not only create new contents but also manage them throughout the whole publication process.
 
 ::: tip TIP
 See [the Workflow page](workflow.md) for more on the publication process supported by _ICJIA Research Hub_.

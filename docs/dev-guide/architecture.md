@@ -84,6 +84,10 @@ Research Hub Preview ([GitHub](https://github.com/ICJIA/icjia-research-studio)) 
 
 ## Deployment strategy
 
+::: warning NOTE
+GitHub repository for the API server contains an older setup. The API server is currently not deployed using Docker.
+:::
+
 <div style="text-align:center">
 <span class="fig-title">Figure 2. Deployment strategy</span>
 

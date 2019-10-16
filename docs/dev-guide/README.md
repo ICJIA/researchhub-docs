@@ -64,6 +64,10 @@ npm run build
 
 ### API server
 
+::: warning NOTE
+GitHub repository for the API server contains an older setup. The API server is currently not deployed using Docker. However, you can still use it for local development.
+:::
+
 ::: tip TIP
 Refer to [the Docker Compose documentation](https://docs.docker.com/compose/) for more options.
 :::

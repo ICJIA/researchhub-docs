@@ -43,11 +43,10 @@ In _Figure 1_, "published" and "submitted" are possible values for the content s
 
 ### API server
 
-_ICJIA Research Hub_'s API server ([GitHub](https://github.com/ICJIA/research-hub-api)) is a Docker Compose stack that provides as a headless content management system (CMS) for _ICJIA Research Hub_ and makes its contents accessible via HTTP calls.
+_ICJIA Research Hub_'s API server ([GitHub](https://github.com/ICJIA/research-hub-api)) provides as a headless content management system (CMS) for _ICJIA Research Hub_ and makes its contents accessible via HTTP calls.
 
 The API server is powered by:
 
-- [Docker](https://www.docker.com/) for containerization;
 - [MongoDB](https://www.mongodb.com/) for _ICJIA Research Hub_ contents database; and
 - [Strapi](https://strapi.io/) for managing authentication and contents as well as handling HTTP calls from clients.
 

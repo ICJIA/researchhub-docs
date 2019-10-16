@@ -2,13 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> This project was supported by State Justice Statistics (SJS) Program Grant #2018-86-CX-K006, awarded to the Illinois Criminal Justice Information Authority by the U.S. Department of Justice Office of Justice Programs' Bureau of Justice Statistics.
+> This Web site is funded through a grant from the Bureau of Justice Statistics, Office of Justice Programs, U.S. Department of Justice. Neither the U.S. Department of Justice nor any of its components operate, control, are responsible for, or necessarily endorse, this Web site (including, without limitation, its content, technical infrastructure, and policies, and any services or tools provided).
 
 Documentation for ICJIA Research Hub.
 
 **Powered by** [<img alt="VuePress logo" src="https://vuepress.vuejs.org/hero.png" height="25">](https://vuepress.vuejs.org/)
-
-**Hosted on** [<img alt="Netlify logo" src="https://cdn.netlify.com/15ecf59b59c9d04b88097c6b5d2c7e8a7d1302d0/1b6d6/img/press/logos/full-logo-light.svg" height="25">](https://www.netlify.com/)
 
 ## Project Setup
 

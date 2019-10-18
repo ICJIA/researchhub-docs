@@ -8,7 +8,7 @@ meta:
 
 <StaffOnly />
 
-This guide is meant for ICJIA staff members who author and manage contents on _ICJIA Reseasrch Hub_.
+This guide is meant for ICJIA staff members who author and manage contents on _ICJIA Research Hub_.
 
 ## Contents
 

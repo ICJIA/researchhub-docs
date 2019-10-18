@@ -131,7 +131,7 @@ Click "Submitted" to change the status and view the list of submitted Articles i
 </div>
 
 <div style="text-align:center">
-<span class="fig-title">Figure 7b. See the item in <em>Reseasrch Hub Preview</em></span>
+<span class="fig-title">Figure 7b. See the item in <em>Research Hub Preview</em></span>
 
 ![See submitted in Research Hub Preview](/researchhub/docs/assets/img/tutorial-manage7b.png)
 

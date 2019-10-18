@@ -23,7 +23,7 @@ You will find in this Guide:
 - [API Reference](api.md): Reference for the _ICJIA Research Hub_ API.
 - [Data Schema](schema.md): Explanation for the _ICJIA Research Hub_ data schema.
 
-## Contributing to _ICJIA Reseasrch Hub_
+## Contributing to _ICJIA Research Hub_
 
 ::: warning NOTE
 The _ICJIA Research Hub_ project and everyone participating in it is governed by a shared Code of Conduct found [here](contributing/code_of_conduct.md). By participating, you are expected to uphold this code.

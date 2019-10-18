@@ -119,6 +119,10 @@ Click "Submitted" to change the status and view the list of submitted Articles i
 
 </div>
 
+::: warning NOTE
+In order to make further changes to a submitted item, you need to first change its status back to "Created" by clicking a cross mark icon (<i class="material-icons">close</i>). See [the Content status section](../workflow.md#content-status) on the Workflow page for more on what different content statuses mean.
+:::
+
 ## 7. Preview the submitted item
 
 [As before](#_4-preview-the-created-item), you can see the preview by clicking the <i class="material-icons">visibility</i> button for any item. This time, you will see the `PREVIEW LINK` button on the top right of the preview window. Clicking the button will show the submitted item in _Research Hub Preview_ in a new tab.

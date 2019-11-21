@@ -62,7 +62,7 @@ module.exports = {
         }
       ]
     },
-    repo: "icjia/icjia-research-docs",
+    repo: "icjia/researchhub-docs",
     repoLabel: "GitHub"
   }
 };

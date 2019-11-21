@@ -20,6 +20,12 @@ For more information about ICJIA, please visit [the official website](http://icj
 
 In short, a software product is open-source if its source code is released under [an open-source license, which allows the product to be "freely used, modified, and shared."](https://opensource.org/licenses) The development of _ICJIA Research Hub_ relies on a set of public GitHub repositories each including an open-source MIT license, which makes the project open-source.
 
+## I am experiencing a technical issue in _ICJIA Research Hub_. How can I report it?
+
+If you find a technical issue in _ICJIA Research Hub_ (e.g. "this hyperlink to an external page is broken" or "numbers in that Dataset file seem incorrect"), you can report it to [CJA.ResearchHub@illinois.gov](mailto:CJA.ResearchHub@illinois.gov). Also, contact us via email if you'd like to share specific suggestions to improve _ICJIA Research Hub_. If you are technically inclined, consider opening a GitHub issue [here](https://github.com/icjia/icjia-research/issues), instead.
+
+If you want general information on ICJIA or the R&A Unit, please refer to [the official website](http://icjia.state.il.us).
+
 ## How can I get involved in _ICJIA Research Hub_?
 
 It's wonderful that you are interested in getting involved in this project! Your contribution can range from reporting a bug to suggesting a new feature to submitting relevant contents to improving this documentation to contributing to the project's codebase.

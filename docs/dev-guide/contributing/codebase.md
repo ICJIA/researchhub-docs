@@ -14,12 +14,12 @@ meta:
 
 Each GitHub repository for an individual component of the _ICJIA Research Hub_ project contains a CONTRIBUTING.md file. Please find each CONTRIBUTING.md file by clicking the following:
 
-- [Research Hub](https://github.com/ICJIA/icjia-research)
-- [Research Hub API](https://github.com/ICJIA/icjia-research-api)
-- [Research Hub component library](https://github.com/ICJIA/icjia-research-lib)
-- [Research Hub Documentation](https://github.com/ICJIA/icjia-research-docs)
-- [Research Hub Preview](https://github.com/ICJIA/icjia-research-preview)
-- [Research Hub Studio](https://github.com/ICJIA/icjia-research-studio)
+- [Research Hub](https://github.com/ICJIA/researchhub)
+- [Research Hub API](https://github.com/ICJIA/researchhub-api)
+- [Research Hub component library](https://github.com/ICJIA/researchhub-lib)
+- [Research Hub Documentation](https://github.com/ICJIA/researchhub-docs)
+- [Research Hub Preview](https://github.com/ICJIA/researchhub-preview)
+- [Research Hub Studio](https://github.com/ICJIA/researchhub-studio)
 
 ::: tip TIP
 See [the Project Architecture page](/dev-guide/architecture.md) of this document for more on each components.

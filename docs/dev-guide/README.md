@@ -47,10 +47,10 @@ All three apps expects the API server to be running to access content data and u
 
 ```sh
 # clone source repo
-git clone https://github.com/ICJIA/icjia-research.git
+git clone https://github.com/ICJIA/researchhub.git
 
 # change directory
-cd icjia-research
+cd researchhub
 
 # install node modules
 npm install
@@ -74,10 +74,10 @@ Refer to [the Docker Compose documentation](https://docs.docker.com/compose/) fo
 
 ```sh
 # clone source repo
-git clone https://github.com/ICJIA/icjia-research-api.git
+git clone https://github.com/ICJIA/researchhub-api.git
 
 # change directory
-cd icjia-research-api
+cd researchhub-api
 
 # bring up compose
 docker-compose up
@@ -87,10 +87,10 @@ docker-compose up
 
 ```sh
 # clone source repo
-git clone https://github.com/ICJIA/icjia-research-docs.git
+git clone https://github.com/ICJIA/researchhub-docs.git
 
 # change directory
-cd icjia-research-docs
+cd researchhub-docs
 
 # install node modules
 npm install

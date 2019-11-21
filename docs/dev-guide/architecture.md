@@ -12,12 +12,12 @@ _ICJIA Research Hub_ consists of multiple parts, or components, each built on ma
 
 There are six main components of the _ICJIA Research Hub_ project:
 
-- API server ([GitHub](https://github.com/ICJIA/icjia-research-api))
-- Component library ([GitHub](https://github.com/ICJIA/icjia-research-lib))
-- Documentation ([GitHub](https://github.com/ICJIA/icjia-research-docs))
-- _Research Hub_ ([GitHub](https://github.com/ICJIA/icjia-research))
-- _Research Hub Preview_ ([GitHub](https://github.com/ICJIA/icjia-research-preview))
-- _Research Hub Studio_ ([GitHub](https://github.com/ICJIA/icjia-research-studio))
+- API server ([GitHub](https://github.com/ICJIA/researchhub-api))
+- Component library ([GitHub](https://github.com/ICJIA/researchhub-lib))
+- Documentation ([GitHub](https://github.com/ICJIA/researchhub-docs))
+- _Research Hub_ ([GitHub](https://github.com/ICJIA/researchhub))
+- _Research Hub Preview_ ([GitHub](https://github.com/ICJIA/researchhub-preview))
+- _Research Hub Studio_ ([GitHub](https://github.com/ICJIA/researchhub-studio))
 
 _Figure 1_ below provides a graphical summary of how these components relate to one another.
 
@@ -52,7 +52,7 @@ The API server is powered by:
 
 ### Component library
 
-The main purpose of the custom component library ([GitHub](https://github.com/ICJIA/icjia-research-lib)) is to improve the maintainability of Vue components and a CSS stylesheet shared by three frontend apps. The shared Vue components currently include the menu toolbar, footer and content-specific components (i.e. "cards" and "views" for Apps, Articles and Datasets).
+The main purpose of the custom component library ([GitHub](https://github.com/ICJIA/researchhub-lib)) is to improve the maintainability of Vue components and a CSS stylesheet shared by three frontend apps. The shared Vue components currently include the menu toolbar, footer and content-specific components (i.e. "cards" and "views" for Apps, Articles and Datasets).
 
 The component library is powered by the following key technologies:
 
@@ -61,7 +61,7 @@ The component library is powered by the following key technologies:
 
 ### Documentation
 
-The current site ([GitHub](https://github.com/ICJIA/icjia-research-docs)) serves as the documentation for the _ICJIA Research Hub_ project, consisting of three "Guides" intended for users, developers and content authors (ICJIA staff).
+The current site ([GitHub](https://github.com/ICJIA/researchhub-docs)) serves as the documentation for the _ICJIA Research Hub_ project, consisting of three "Guides" intended for users, developers and content authors (ICJIA staff).
 
 The documentation site is powered by [VuePress](https://vuepress.vuejs.org/).
 
@@ -76,11 +76,11 @@ All three frontend apps are powered by the following key technologies:
 
 #### _Research Hub_
 
-_Research Hub_ ([GitHub](https://github.com/ICJIA/icjia-research)) serves as the main graphical user interface (GUI) to public contents.
+_Research Hub_ ([GitHub](https://github.com/ICJIA/researchhub)) serves as the main graphical user interface (GUI) to public contents.
 
 #### _Research Preview_ and _Research Studio_
 
-Research Hub Preview ([GitHub](https://github.com/ICJIA/icjia-research-studio)) and Research Hub Studio ([GitHub](https://github.com/ICJIA/icjia-research-studio)) together model and streamline ICJIA's internal content publication process.
+Research Hub Preview ([GitHub](https://github.com/ICJIA/researchhub-studio)) and Research Hub Studio ([GitHub](https://github.com/ICJIA/researchhub-studio)) together model and streamline ICJIA's internal content publication process.
 
 ## Deployment strategy
 

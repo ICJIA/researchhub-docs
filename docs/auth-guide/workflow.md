@@ -106,4 +106,10 @@ In general, publication of any content is considered final and "published" items
 For making changes to already "published" items, there exits a Manager account. Manager can only view the list of "published" items on the Manage page and take down items if needed.
 :::
 
+::: warning NOTE
+When a new content (e.g. an Articles item) is published on _Research Hub_, **Author must notify IT** so that the published item will be made accessible from the ICJIA main website.
+
+Make sure to **email the URL of the newly published item to IT (Chris and Jin)**.
+:::
+
 <FundingStatement />

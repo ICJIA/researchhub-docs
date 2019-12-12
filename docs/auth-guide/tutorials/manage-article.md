@@ -151,6 +151,12 @@ In order to make further changes to a submitted item, you need to first change i
 **[As noted in the Workflow page](#published), publication of any content is considered final and cannot be easily reversed!** If you have been following this tutorial series up to this point, **do NOT proceed further.** Otherwise, you will be publishing your toy article to the main website.
 :::
 
+::: warning NOTE
+When a new content (e.g. an Articles item) is published on _Research Hub_, **Author must notify IT** so that the published item will be made accessible from the ICJIA main website.
+
+Make sure to **email the URL of the newly published item to IT (Chris and Jin)**.
+:::
+
 To publish the item, i.e. change the item's status to "Published," click the <i class="material-icons">check</i> button. A popup dialog will appear to confirm that the item is indeed published. Click "OK" to close the dialog. [As before](#_5-submit-the-item), the item table will be then updated to reflect the change.
 
 <div style="text-align:center">

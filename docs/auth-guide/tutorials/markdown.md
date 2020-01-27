@@ -88,18 +88,18 @@ Markdown allows you to write some HTML directly. For Aritcles, this is used to a
 
 #### Figure title here
 
-![alt text][image file name]
+![alt text][image_file_name_without_extension]
 
 ###### Note, source, etc.
 
 </div>
 ```
 
-- The figure item consists of enclosing HTML `<div>` tag, figure number (`h4` heading), figure title (`h4` heading), image with "alt text" and file name and one or more additional notes (`h6` heading).
+- The figure item consists of enclosing HTML `<div>` tag, figure number (`h4` heading), figure title (`h4` heading), image with "alt text", file name without extension (e.g. "figure1" instead of "figure1.jpg"), and one or more additional notes (`h6` heading).
 - The HTML `<div>` tag must have `class="article-figure` attribute.
 - The vertical space (at least one extra line) is required between the opening `<div>` tag line and the first markdown elements.
 - The "alt text" is displayed if the image fails to load or used by a screen reader for accessibility.
-- Image file name must match that of the uploaded file, without the file extension such as .jpg, .png, etc.
+- Image file name must match that of the uploaded file, without the file extension such as .jpg, .png, etc. For example, if the original image is called "figure1.jpg", simply use "figure1".
 
 #### Tables
 

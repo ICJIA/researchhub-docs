@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Apps
 
 An App is a web application, typically one that allows users to explore criminal justice data in an interactive fashion.

@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Datasets
 
 A Dataset is a data file in a machine-friendly format (e.g. comma separated value, or CSV). A Dataset item is typically prepared by the ICJIA R&A staff to provide key criminal justice statistics in a convenient format.

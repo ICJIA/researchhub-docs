@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Articles
 
 An Article is a writing piece, typically a report on a research project conducted by the ICJIA R&A staff.

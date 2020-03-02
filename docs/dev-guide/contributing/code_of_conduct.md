@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

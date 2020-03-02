@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Contents
 
 <InDevelop />

@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Overview
 
 Welcome to _ICJIA Research Hub_ Developer Guide!

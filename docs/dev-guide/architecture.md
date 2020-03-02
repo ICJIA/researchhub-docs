@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Project Architecture
 
 _ICJIA Research Hub_ consists of multiple parts, or components, each built on many popular open-source projects. Together, they provide an integrated platform for publishing ICJIA R&A's research contents (as well as contributions from others).

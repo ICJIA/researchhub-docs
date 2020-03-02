@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # FAQ
 
 ## What is _ICJIA Research Hub_?

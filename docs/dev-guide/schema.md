@@ -4,6 +4,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # Data Schema
 
 _ICJIA Research Hub_ has the following four content types:

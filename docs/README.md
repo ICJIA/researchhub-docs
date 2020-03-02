@@ -6,6 +6,8 @@ meta:
     content: noindex
 ---
 
+<AlertCOVID />
+
 # ICJIA Research Hub
 
 <Vuepress />

@@ -1,4 +1,5 @@
 ---
+title: Project Architecture
 meta:
   - name: robots
     content: noindex

@@ -1,4 +1,5 @@
 ---
+title: Data Schema
 meta:
   - name: robots
     content: noindex

@@ -1,4 +1,5 @@
 ---
+title: Contributor Covenant Code of Conduct
 meta:
   - name: robots
     content: noindex

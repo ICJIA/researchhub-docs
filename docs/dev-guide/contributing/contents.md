@@ -1,4 +1,5 @@
 ---
+title: Contents
 meta:
   - name: robots
     content: noindex

@@ -1,4 +1,5 @@
 ---
+title: FAQ
 meta:
   - name: robots
     content: noindex

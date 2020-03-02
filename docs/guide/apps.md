@@ -1,4 +1,5 @@
 ---
+title: Apps
 meta:
   - name: robots
     content: noindex

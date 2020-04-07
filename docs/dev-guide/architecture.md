@@ -32,12 +32,7 @@ _Figure 1_ below provides a graphical summary of how these components relate to 
 </div>
 
 ::: warning NOTE
-In _Figure 1_ above, as well as in _Figure 2_ below,
-
-- the stacked server icon indicates that a service is deployed on-premise;
-- the cloud icon indicates that a service is deployed on the cloud hosting service; and
-- the lock icon indicates that a service requires authentication.
-
+In _Figure 1_ above, as well as in _Figure 2_ below, the lock icon indicates that a service requires authentication.
 :::
 
 ::: tip TIP

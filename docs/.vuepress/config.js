@@ -7,7 +7,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "/assets/icjia-default.jpg",
+        href: "/assets/favicon.ico",
       },
     ],
     [
